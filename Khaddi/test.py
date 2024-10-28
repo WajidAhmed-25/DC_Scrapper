@@ -105,7 +105,7 @@ def parse_khaadi_html():
         products_data.append(product_info)
 
  
-    with open("khaadi.json", "w", encoding="utf-8") as json_file:
+    with open("all_khaadi.json", "w", encoding="utf-8") as json_file:
         json.dump(products_data, json_file, indent=4, ensure_ascii=False)
 
 

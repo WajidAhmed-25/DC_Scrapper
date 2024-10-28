@@ -84,7 +84,7 @@ def extract_saya_data(file_path, output_file):
             price_spans = price_div.find_all("span", class_="money")
             if len(price_spans) > 1:
                 product_data['sale_price'] = price_spans[0].get_text(strip=True)
-                product_data['orignal_price'] = price_spans[1].get_text(strip=True)
+                product_data['original_price'] = price_spans[1].get_text(strip=True)
                 
                 
         product_data['Brand_Name'] = "Saya Clothing"           
@@ -107,7 +107,7 @@ time.sleep(2)
 
 
 file_path = "all_saya_sales.html"
-output_file = "saya.json"
+output_file = "all_saya.json"
 extract_saya_data(file_path, output_file)
 
 os.remove('all_saya_sales.html')
