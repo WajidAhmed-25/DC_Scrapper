@@ -85,7 +85,7 @@ def scrape_product_data(file_path, output_json):
             product_data.append({
                 'title': title,
                 'product_page': "https://www.alkaramstudio.com/collections/sale"+href,
-                'image_url': image_url,
+                'image_url':"https:"+image_url,
                 'original_price': original_price,
                 'sale_price': sale_price,
                 'Brand_Name':Brand_name
