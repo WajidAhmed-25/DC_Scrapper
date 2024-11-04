@@ -3,6 +3,7 @@ J. Clothing:  202
 Saya Clothing: 1926
 Khaddi : 1091
 Zeen: 450
+Dhanak : 130
+outfitter: 
 
-
-Total: 5281
+Total: 5581
