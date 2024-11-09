@@ -1,0 +1,993 @@
+[
+    {
+        "product_url": "https://angeethipk.com/?item_id=680295%7C400334",
+        "product_title": "Bbq Shawarma",
+        "product_description": "",
+        "original_price": "350",
+        "discount_price": "280",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1703228775-BBQ%20shawarma.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Fast Food"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=680296%7C400334",
+        "product_title": "Angeethi Fried Chicken",
+        "product_description": "",
+        "original_price": "745",
+        "discount_price": "596",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1703228808-Angeethi%20fried%20chicken.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Fast Food"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=680298%7C400334",
+        "product_title": "Crispy Burger With Fries",
+        "product_description": "",
+        "original_price": "795",
+        "discount_price": "636",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1703228828-Crispy%20burger.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Fast Food"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=680299%7C400334",
+        "product_title": "Bbq Wings",
+        "product_description": "",
+        "original_price": "695",
+        "discount_price": "556",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1703228883-Wings.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Fast Food"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=680300%7C400334",
+        "product_title": "Nuggets",
+        "product_description": "",
+        "original_price": "795",
+        "discount_price": "636",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1703228907-Nuggets.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Fast Food"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=680301%7C400334",
+        "product_title": "Bbq Club Sandwich",
+        "product_description": "",
+        "original_price": "945",
+        "discount_price": "756",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1703228929-BBQ%20club%20sandwich.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Fast Food"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650312%7C407777",
+        "product_title": "Deal 1",
+        "product_description": "Any 2 Chicken Roll",
+        "product_price": "499",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1714874932-d.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650313%7C407777",
+        "product_title": "Deal 2",
+        "product_description": "I Tikka ( Leg/ Chest)\n\n1 Paratha\n\n1 Drink",
+        "product_price": "649",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1714859860-WhatsApp%20Image%202024-05-04%20at%2012.35.18%20AM%20(2).jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650314%7C407777",
+        "product_title": "Deal 3",
+        "product_description": "1 Chicken Kabab Handi 2 Plain Naan",
+        "product_price": "1499",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1714859120-WhatsApp%20Image%202024-05-04%20at%2012.35.18%20AM%20(3).jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650315%7C407777",
+        "product_title": "Peshawari Deal 4",
+        "product_description": "1 Chicken Peshawari Karahi Half + 3 Plain Naan",
+        "product_price": "1499",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1714859139-WhatsApp%20Image%202024-05-04%20at%2012.35.18%20AM%20(4).jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650316%7C407777",
+        "product_title": "Deal 5",
+        "product_description": "4 Chicken Malai Bihaari Roll4 Malai Boti Roll",
+        "product_price": "1899",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1714859190-WhatsApp%20Image%202024-05-04%20at%2012.35.18%20AM%20(5).jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650317%7C407777",
+        "product_title": "Deal 6",
+        "product_description": "1 Makhni Handi (Half)1 Bbq Platter1 Salad4 Paratha4 Plain Naan",
+        "product_price": "5999",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1714859297-WhatsApp%20Image%202024-05-04%20at%2012.35.18%20AM%20(6).jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650220%7C407764",
+        "product_title": "Combo Box",
+        "product_description": "Chicken Makhni Handi - Bbq Handi Biryani - 3 Plain Naan",
+        "product_price": "2654",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1710744957-combo.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=714098%7C401234",
+        "product_title": "Chicken Bihari Rice",
+        "product_description": "",
+        "original_price": "1145",
+        "discount_price": "916",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1723511614-WhatsApp%20Image%202024-08-12%20at%204.21.11%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=714100%7C401234",
+        "product_title": "Mix Kabab",
+        "product_description": "",
+        "original_price": "1245",
+        "discount_price": "996",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1723511990-WhatsApp%20Image%202024-08-12%20at%204.21.11%20AM%20(1).jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=714102%7C401234",
+        "product_title": "Mix Kabab Rice",
+        "product_description": "",
+        "original_price": "1345",
+        "discount_price": "1076",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1723512779-WhatsApp%20Image%202024-08-12%20at%204.21.11%20AM%20(2).jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=728745%7C401234",
+        "product_title": "Dynamite Chicken",
+        "product_description": "Fried Chicken Chunks marinated in Angeethi signature Sauce",
+        "original_price": "795",
+        "discount_price": "636",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=695748%7C401234",
+        "product_title": "Beef Dhagga Kabab",
+        "product_description": "",
+        "original_price": "1195",
+        "discount_price": "956",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716978115-03-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=695749%7C401234",
+        "product_title": "Beef Dhagga Kabab Roll",
+        "product_description": "",
+        "original_price": "350",
+        "discount_price": "280",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716978106-04-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=664053%7C401234",
+        "product_title": "Kebab Karahi",
+        "product_description": "",
+        "original_price": "1795",
+        "discount_price": "1436",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1695639025-oseufcn.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650327%7C401234",
+        "product_title": "The Big Biryani",
+        "product_description": "Serves 3-4 persons",
+        "original_price": "2395",
+        "discount_price": "1916",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1686311398-11.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650331%7C401234",
+        "product_title": "Grilled Tikka Rice",
+        "product_description": "",
+        "original_price": "945",
+        "discount_price": "756",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1685599134-Tikka%20Rice.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650332%7C401234",
+        "product_title": "Angeethi Kabab Rice",
+        "product_description": "",
+        "original_price": "1245",
+        "discount_price": "996",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1685599241-Kabab%20Rice.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=655833%7C401234",
+        "product_title": "Mutton Hunzai Kabab Roll",
+        "product_description": "",
+        "original_price": "390",
+        "discount_price": "312",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1726064635-qwer567uj.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600251%7C400183",
+        "product_title": "BBQ Platter",
+        "product_description": "Chicken bihaari, beef bihaari, malai boti, kebab & mutton chops",
+        "original_price": "4495",
+        "discount_price": "3596",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1656672298-WhatsApp%20Image%202022-07-01%20at%202.14.20%20PM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600257%7C400183",
+        "product_title": "Brain Masala",
+        "product_description": "Fried brain of goat made in traditional masala",
+        "original_price": "1995",
+        "discount_price": "1596",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1638861701-Untitled-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600260%7C400183",
+        "product_title": "Chicken Makhni Handi",
+        "product_description": "Boneless creamy chicken handi",
+        "original_price": "1995",
+        "discount_price": "1596",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1656672511-WhatsApp%20Image%202022-07-01%20at%202.14.21%20PM%20(1).jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600268%7C400183",
+        "product_title": "Chicken Peshawari Karahi",
+        "product_description": "Angeethi special chicken karahi made in blackpepper",
+        "original_price": "1845",
+        "discount_price": "1476",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1639205996-Untitled-11Recovered.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=601076%7C400183",
+        "product_title": "Bbq Handi Biryani",
+        "product_description": "Biryani Rice Served with Boneless Bbq Chicken in a Handi",
+        "original_price": "1295",
+        "discount_price": "1036",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1656672458-WhatsApp%20Image%202022-07-01%20at%202.14.21%20PM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=601077%7C400183",
+        "product_title": "Malai Boti",
+        "product_description": "Tender Chicken Boti Marinated in Cream",
+        "original_price": "1345",
+        "discount_price": "1076",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1641295862-Malai-Boti.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=601080%7C400183",
+        "product_title": "Chicken Tikka",
+        "product_description": "Angeethi Special Chicken Tikka",
+        "original_price": "595",
+        "discount_price": "476",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1662191712-Tikka.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600258%7C400045",
+        "product_title": "Chicken Kabab Handi",
+        "product_description": "Creamy handi made with chicken kebab",
+        "original_price": "1945",
+        "discount_price": "1556",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1642573340-Paneer-Reshmi-Handi.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600259%7C400045",
+        "product_title": "Beef Kabab Handi",
+        "product_description": "Creamy handi made with beef kebab",
+        "original_price": "1945",
+        "discount_price": "1556",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1656672554-WhatsApp%20Image%202022-07-01%20at%202.14.22%20PM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600260%7C400045",
+        "product_title": "Chicken Makhni Handi",
+        "product_description": "Boneless creamy chicken handi",
+        "original_price": "1995",
+        "discount_price": "1596",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1656672511-WhatsApp%20Image%202022-07-01%20at%202.14.21%20PM%20(1).jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600262%7C400045",
+        "product_title": "Paneer Reshmi Handi",
+        "product_description": "Rich creamy handi made with shredded cheese, has boneless chicken",
+        "original_price": "2145",
+        "discount_price": "1716",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1642573347-paneer.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600263%7C400045",
+        "product_title": "Chicken Karahi",
+        "product_description": "Chicken with bone made in classic red masala",
+        "original_price": "1745",
+        "discount_price": "1396",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637006122-Chicken-karahi.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600264%7C400045",
+        "product_title": "Chicken Boneless Karahi",
+        "product_description": "Boneless chicken pieces marinated in the classic red masala",
+        "original_price": "1745",
+        "discount_price": "1396",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637006111-Chicken-karahi.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600265%7C400045",
+        "product_title": "Chicken Achari Karahi Boneless",
+        "product_description": "Boneless chicken karhai made with achari masala",
+        "original_price": "1845",
+        "discount_price": "1476",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1639205888-Untitled-7-Recovered.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600266%7C400045",
+        "product_title": "Chicken Peshawari Boneless Karahi",
+        "product_description": "Serves 3-4 - Authentic boneless chicken Peshawari karahi brings a special taste and aromas as not many spices added, with the garnishing of julienne ginger makes it special and delicious in taste.",
+        "original_price": "1845",
+        "discount_price": "1476",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1639205925-Untitled-6-Recovered.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600267%7C400045",
+        "product_title": "White Chicken Karahi",
+        "product_description": "Chicken with bone marinated with cream",
+        "original_price": "1845",
+        "discount_price": "1476",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1639205958-Untitled-10-Recovered.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600268%7C400045",
+        "product_title": "Chicken Peshawari Karahi",
+        "product_description": "Angeethi special chicken karahi made in blackpepper",
+        "original_price": "1845",
+        "discount_price": "1476",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1639205996-Untitled-11Recovered.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600271%7C400045",
+        "product_title": "Mutton Karahi",
+        "product_description": "Mutton with bone made in classic red masala",
+        "original_price": "2595",
+        "discount_price": "2076",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1638861655-Untitled-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600272%7C400045",
+        "product_title": "White Mutton Karahi",
+        "product_description": "Mutton with bone marinated with cream",
+        "original_price": "2595",
+        "discount_price": "2076",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1638857478-Untitled-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600273%7C400045",
+        "product_title": "Mutton Peshawari Karahi",
+        "product_description": "Angeethi special mutton karahi made in blackpepper",
+        "original_price": "2595",
+        "discount_price": "2076",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1656672329-WhatsApp%20Image%202022-07-01%20at%202.14.20%20PM%20(1).jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=664053%7C400045",
+        "product_title": "Kebab Karahi",
+        "product_description": "",
+        "original_price": "1795",
+        "discount_price": "1436",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1695639025-oseufcn.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600269%7C400045",
+        "product_title": "Chicken Quetta Karahi",
+        "product_description": "Serves 3-4 - Traditional gravy dish, with chicken, vegetables and mix of spices.",
+        "original_price": "1845",
+        "discount_price": "1476",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637005989-Chicken-Quetta-karahi.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600270%7C400045",
+        "product_title": "Chicken Quetta Karahi Boneless",
+        "product_description": "Serves 3-4 - Spicy and tasty dish which is glistened with oil and topped with ginger",
+        "original_price": "1845",
+        "discount_price": "1476",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1639205767-Untitled-8-Recovered.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600274%7C400045",
+        "product_title": "Mutton Quetta Karahi",
+        "product_description": "Serves 3-4 - Spicy and tasty dish which is glistened with oil and topped with ginger",
+        "original_price": "2595",
+        "discount_price": "2076",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1636984748-mutton-Quetta-karahi.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600275%7C400045",
+        "product_title": "Mutton Qeema Karahi",
+        "product_description": "Serves 3-4 - Spicy and tasty dish which is glistened with oil and topped with ginger",
+        "original_price": "1895",
+        "discount_price": "1516",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1636984738-Mutton-Qeema-karahi.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Handi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650318%7C400043",
+        "product_title": "Ultimate Bbq Platter",
+        "product_description": "",
+        "original_price": "9995",
+        "discount_price": "7996",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672225439-01.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=607905%7C400043",
+        "product_title": "Chicken Drumsticks",
+        "product_description": "Grilled chicken drumsticks (6 pieces)",
+        "original_price": "1695",
+        "discount_price": "1356",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1646723953-chicken-angeethi.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600239%7C400043",
+        "product_title": "Chicken Tikka",
+        "product_description": "Angeethi special chicken tikka",
+        "original_price": "595",
+        "discount_price": "476",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1638858575-Untitled-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600240%7C400043",
+        "product_title": "Chicken Reshmi Kabab",
+        "product_description": "Soft & juicy chicken kebabs",
+        "original_price": "1195",
+        "discount_price": "956",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1638858608-Untitled-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600242%7C400043",
+        "product_title": "Chicken Bihari",
+        "product_description": "Classic chicken boti marinated with Angeethi special masala",
+        "original_price": "1195",
+        "discount_price": "956",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1638858629-Untitled-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600244%7C400043",
+        "product_title": "Beef Seekh Kabab",
+        "product_description": "Classic seekh kebab grilled on charcoal",
+        "original_price": "1195",
+        "discount_price": "956",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1636984150-beef-seekh-kabab.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600247%7C400043",
+        "product_title": "Beef Bihari",
+        "product_description": "Boneless beef boti cooked in bihaari style",
+        "original_price": "1345",
+        "discount_price": "1076",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637141386-behari-kabab_8080.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600248%7C400043",
+        "product_title": "Afghani Boti Beef",
+        "product_description": "Special undercut beef boti served with charbi",
+        "original_price": "1695",
+        "discount_price": "1356",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1641295702-Afghani-Boti.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600249%7C400043",
+        "product_title": "Mutton Kabab",
+        "product_description": "Serves 2-3 - Mouth watering mutton kebab",
+        "original_price": "1495",
+        "discount_price": "1196",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637141395-4139694133de89ec50d8362ee4e914b8.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600250%7C400043",
+        "product_title": "MUTTON CHOPS",
+        "product_description": "Classic mutton chops",
+        "original_price": "2145",
+        "discount_price": "1716",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1638857104-Untitled-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600251%7C400043",
+        "product_title": "BBQ Platter",
+        "product_description": "Chicken bihaari, beef bihaari, malai boti, kebab & mutton chops",
+        "original_price": "4495",
+        "discount_price": "3596",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1656672298-WhatsApp%20Image%202022-07-01%20at%202.14.20%20PM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=695748%7C400043",
+        "product_title": "Beef Dhagga Kabab",
+        "product_description": "",
+        "original_price": "1195",
+        "discount_price": "956",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716978115-03-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=601078%7C400043",
+        "product_title": "Chicken Bihari Boti",
+        "product_description": "Classic CHicken Boti Marinated with Angeethi special masala",
+        "original_price": "1195",
+        "discount_price": "956",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637827797-chicken-bihaari-boti.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600246%7C400043",
+        "product_title": "Shangrilla Boti",
+        "product_description": "Scrumptious and full of flavors",
+        "original_price": "1295",
+        "discount_price": "1036",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1636984329-Shangrila-boti.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "BBQ"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=606646%7C400044",
+        "product_title": "Daal Chawal",
+        "product_description": "",
+        "original_price": "645",
+        "discount_price": "516",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1642924823-IMG-20220123-WA0010.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600252%7C400044",
+        "product_title": "Mix Sabzi",
+        "product_description": "Serves 2-4 person - Freshly cut veggies mix, made in our special spices",
+        "original_price": "695",
+        "discount_price": "556",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1636984550-mix-sabzi.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600255%7C400044",
+        "product_title": "Bbq Shashlik",
+        "product_description": "Chicken boti with egg fried rice served with Angeethi special dip",
+        "original_price": "1195",
+        "discount_price": "956",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1638858387-Untitled-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600256%7C400044",
+        "product_title": "BBQ Handi Biryani",
+        "product_description": "Biryani rice served with boneless bbq chicken in a handi",
+        "original_price": "1295",
+        "discount_price": "1036",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1656672470-WhatsApp%20Image%202022-07-01%20at%202.14.21%20PM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600257%7C400044",
+        "product_title": "Brain Masala",
+        "product_description": "Fried brain of goat made in traditional masala",
+        "original_price": "1995",
+        "discount_price": "1596",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1638861701-Untitled-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=607977%7C400044",
+        "product_title": "Katakat",
+        "product_description": "",
+        "original_price": "1595",
+        "discount_price": "1276",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1646993272-katakat.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=607978%7C400044",
+        "product_title": "Katakat with Brain",
+        "product_description": "",
+        "original_price": "1895",
+        "discount_price": "1516",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1646993305-katakat.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600253%7C400044",
+        "product_title": "Daal",
+        "product_description": "Serves 1 - Delicious daal, healthy & tasty meal",
+        "original_price": "695",
+        "discount_price": "556",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1636984539-Daal.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600254%7C400044",
+        "product_title": "Palak Paneer",
+        "product_description": "Serves 1 - Fresh delicious palak with lots of paneer, mouth watering dish",
+        "original_price": "1195",
+        "discount_price": "956",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1656672581-WhatsApp%20Image%202022-07-01%20at%202.14.22%20PM%20(1).jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Desi"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650328%7C400042",
+        "product_title": "Jalapeno Cheese Balls",
+        "product_description": "",
+        "original_price": "695",
+        "discount_price": "556",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715867889-1693475589-logo.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600226%7C400042",
+        "product_title": "Plain Fries",
+        "product_description": "Yellow and appealing cuts of potato, a crunchy exterior and a light, fluffy interior of fries",
+        "original_price": "395",
+        "discount_price": "316",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1636983939-Plain-fries.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600228%7C400042",
+        "product_title": "Garlic Fries",
+        "product_description": "Classic french fries served with garlic mayo dip",
+        "original_price": "445",
+        "discount_price": "356",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1636983927-garlic-mayo-fries.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600231%7C400042",
+        "product_title": "Qeema Naan",
+        "product_description": "Hot & delicious flatbread with beef qeema, straight out of tandoor",
+        "original_price": "795",
+        "discount_price": "636",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1636983896-Qeema-naan.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=728745%7C400042",
+        "product_title": "Dynamite Chicken",
+        "product_description": "Fried Chicken Chunks marinated in Angeethi signature Sauce",
+        "original_price": "795",
+        "discount_price": "636",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600233%7C400042",
+        "product_title": "Tikka Naan",
+        "product_description": "Chunks of BBQ chicken inside a naan",
+        "original_price": "795",
+        "discount_price": "636",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1636983888-Tikka-naan.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600234%7C400042",
+        "product_title": "Hummus",
+        "product_description": "Delicious and authentic hummus",
+        "original_price": "695",
+        "discount_price": "556",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637827975-Desserts-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600238%7C400042",
+        "product_title": "Chicken Strips",
+        "product_description": "Crispy fried boneless chicken fillets",
+        "original_price": "1045",
+        "discount_price": "836",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1636983773-chicken-strips.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650230%7C400042",
+        "product_title": "Jalapeno Fries",
+        "product_description": "",
+        "original_price": "495",
+        "discount_price": "396",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1685599472-Jalapeno%20fries.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650231%7C400042",
+        "product_title": "BBQ loaded Fries",
+        "product_description": "",
+        "original_price": "745",
+        "discount_price": "596",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1685599501-bbq%20fries.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=602049%7C400047",
+        "product_title": "Beef Bihari Roll",
+        "product_description": "Beef boti wrapped in a paratha",
+        "original_price": "370",
+        "discount_price": "296",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1639205515-Untitled-2-Recovered.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Roll"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=695749%7C400047",
+        "product_title": "Beef Dhagga Kabab Roll",
+        "product_description": "",
+        "original_price": "350",
+        "discount_price": "280",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716978106-04-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Roll"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600282%7C400047",
+        "product_title": "Chicken Reshmi Kabab Roll",
+        "product_description": "Chicken reshmi kebab wrapped in paratha",
+        "original_price": "320",
+        "discount_price": "256",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1639132922-angethi--3333333.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Roll"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600283%7C400047",
+        "product_title": "Malai Boti Roll",
+        "product_description": "Creamy chicken boti wrapped in a paratha",
+        "original_price": "350",
+        "discount_price": "280",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637006425-malai-boti-roll.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Roll"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600285%7C400047",
+        "product_title": "Beef Seekh Kabab Roll",
+        "product_description": "Beef kabab wrapped in paratha",
+        "original_price": "350",
+        "discount_price": "280",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637006401-beef-seekh-kabab-roll.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Roll"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650222%7C400047",
+        "product_title": "Chicken Bihari Roll",
+        "product_description": "Angeethi special masala boti wrapped in paratha/chapati with onions & chutney",
+        "original_price": "320",
+        "discount_price": "256",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1663415481-Chicken%20Bihari%20Roll.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Roll"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600286%7C400048",
+        "product_title": "Soft Drinks",
+        "product_description": "",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1656709618-23.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600287%7C400048",
+        "product_title": "Mineral Water",
+        "product_description": "",
+        "original_price": "145",
+        "discount_price": "116",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637057221-Mineral-water.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600276%7C400046",
+        "product_title": "Plain Naan",
+        "product_description": "Hot & Delicious flatbread , straight out of Tandoor",
+        "original_price": "90",
+        "discount_price": "72",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637006369-plain-naan.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Naan"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600277%7C400046",
+        "product_title": "Lal Atta Roti",
+        "product_description": "Whole wheat hot & delicious flatbread , straight out of Tandoor",
+        "original_price": "100",
+        "discount_price": "80",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637006358-Lal-Atta-roti-(Whole-Wheet).jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Naan"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600278%7C400046",
+        "product_title": "Roghni Naan",
+        "product_description": "Soft , hot & delicious flatbread , straight out of tandoor",
+        "original_price": "150",
+        "discount_price": "120",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637006349-Roghni-naan.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Naan"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600279%7C400046",
+        "product_title": "Garlic Naan",
+        "product_description": "Hot & Delicious flatbread Topped with Garlic & Butter , Straight out of Tandoor",
+        "original_price": "150",
+        "discount_price": "120",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637006337-Garlic-naan.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Naan"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600280%7C400046",
+        "product_title": "Paratha",
+        "product_description": "Crispy Puri Paratha",
+        "original_price": "150",
+        "discount_price": "120",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1641295878-Paratha.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Naan"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600289%7C400049",
+        "product_title": "Salad",
+        "product_description": "",
+        "original_price": "425",
+        "discount_price": "340",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1641295900-Salad.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600290%7C400049",
+        "product_title": "Raita",
+        "product_description": "",
+        "original_price": "425",
+        "discount_price": "340",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1641295891-Raita.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=600291%7C400049",
+        "product_title": "Roll Chutney",
+        "product_description": "250ml",
+        "original_price": "395",
+        "discount_price": "316",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1717249508-WhatsApp%20Image%202024-06-01%20at%201.14.25%20PM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650228%7C400049",
+        "product_title": "Chopped Salad",
+        "product_description": "",
+        "original_price": "395",
+        "discount_price": "316",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715867807-1693475589-logo.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://angeethipk.com/?item_id=650229%7C400049",
+        "product_title": "Kheer",
+        "product_description": "",
+        "original_price": "395",
+        "discount_price": "316",
+        "product_image": "https://angeethipk.com//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715867822-1693475589-logo.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Angeethi",
+        "food_category": "Add Ons"
+    }
+]
