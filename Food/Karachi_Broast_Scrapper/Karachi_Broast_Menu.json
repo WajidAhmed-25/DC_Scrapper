@@ -1,0 +1,542 @@
+[
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=37124%7C4689",
+        "product_title": "Extra Bun",
+        "product_description": "1 pc of Bun",
+        "product_price": "50",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1634107107-1625566536-5.-Bun.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Broast"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26680%7C4689",
+        "product_title": "Broast (Quarter)",
+        "product_description": "2 Pcs Broasted Chicken serve with Fries , Bun and Sauces",
+        "product_price": "650",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566553-1.-Broast---Qtr.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Broast"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26681%7C4689",
+        "product_title": "Broast (Half)",
+        "product_description": "4 Pcs Broasted Chicekn serve with Fries , 2 Buns and  Sauces",
+        "product_price": "1300",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1646723610-kaybes-k-nae-item.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Broast"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26682%7C4689",
+        "product_title": "Broast (Full)",
+        "product_description": "8 Pcs Broasted Chicken serve with Fries , 4 Buns and  Sauces",
+        "product_price": "2600",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1646723041-kaybes-k-nae-item.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Broast"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26684%7C4689",
+        "product_title": "Extra Bun",
+        "product_description": "1 pc of Bun",
+        "product_price": "50",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566536-5.-Bun.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Broast"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=38086%7C4689",
+        "product_title": "White Sauce",
+        "product_description": "100 ml of White Sauce",
+        "product_price": "75",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Broast"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26683%7C4689",
+        "product_title": "White Sauce",
+        "product_description": "100 ml of White Sauce",
+        "product_price": "75",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566540-4.-White-Sauce.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Broast"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=693320%7C4690",
+        "product_title": "Spicy Chicken Burger",
+        "product_description": "",
+        "product_price": "645",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711439865-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=678348%7C4690",
+        "product_title": "Value Chicken Burger",
+        "product_description": "",
+        "product_price": "375",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1702041425-oibdnf.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=693478%7C4690",
+        "product_title": "Spicy Chicken Stacker",
+        "product_description": "",
+        "product_price": "875",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711452602-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26700%7C4690",
+        "product_title": "Broasted Burger",
+        "product_description": "100 gms Broasted Thigh Fillet , Sauce , IceBerg Lettuce",
+        "product_price": "595",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1646722074-kaybes-k-nae-item.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26701%7C4690",
+        "product_title": "Broasted Jalepeno Burger",
+        "product_description": "100 gms Broasted Thigh Fillet , Sauce , IceBerg Lettuce , Jalepeno",
+        "product_price": "625",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566333-4.-Broasted-Jalepeno-Burger.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26704%7C4690",
+        "product_title": "Zinger Burger",
+        "product_description": "Fried Crum Coated Breast Fillet , Garlic Mayo Sauce , Lettuce",
+        "product_price": "575",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1646722930-kaybes-k-nae-item.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26707%7C4690",
+        "product_title": "Broasted Stacker",
+        "product_description": "100 gms Double Broasted Thigh Fillet , Cheese Slice , Sauce , IceBerg Lettuce",
+        "product_price": "825",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1646722847-kaybes-k-nae-item.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=27219%7C4690",
+        "product_title": "Chicken Burger",
+        "product_description": "100 gms Chicken Patty assembled in Bun",
+        "product_price": "555",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1626163099-1.-Chicken-Burger.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=27221%7C4690",
+        "product_title": "Beef Burger",
+        "product_description": "100 gms Beef Patty assembled in Bun",
+        "product_price": "575",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1646721848-kaybes-k-nae-item.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=27222%7C4690",
+        "product_title": "Jumbo Chicken Burger",
+        "product_description": "100 gms Double Chicken Patty assembled in Bun",
+        "product_price": "805",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1626163088-3.-Jumbo-Chicken-Burger.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=27223%7C4690",
+        "product_title": "Jumbo Beef Burger",
+        "product_description": "100 gms Double Beef Patty assembled in Bun",
+        "product_price": "825",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1646721902-kaybes-k-nae-item.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=27224%7C4690",
+        "product_title": "Two in One Burger",
+        "product_description": "100 gms Chicken Patty , 100 gms Beef Patty assembled in Bun",
+        "product_price": "815",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1626163078-5.-Two-in-One-Burger.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=686449%7C4688",
+        "product_title": "Fun For 2 Special Deal",
+        "product_description": "2 Qtr. Broast, \n\n2 Drinks (345ml)",
+        "product_price": "1325",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1708411605-aiusd.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=632560%7C4688",
+        "product_title": "Bun For 2",
+        "product_description": "2 Broasted Burgers & 2 Drinks",
+        "product_price": "1255",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1676460694-1-min.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=632561%7C4688",
+        "product_title": "Fun For 2",
+        "product_description": "2 Qtr Broast & 2 Drinks",
+        "product_price": "1325",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1676460934-2-min.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=632562%7C4688",
+        "product_title": "Burger Mania",
+        "product_description": "1 Broasted Stacker , 1 Broasted Burger & 2 Drinks",
+        "product_price": "1445",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1676461025-3-min.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=632563%7C4688",
+        "product_title": "Burger on",
+        "product_description": "2 Broasted Stacker , 2 Broasted Burger & 1 Ltr Drink",
+        "product_price": "2655",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1676638467-burger%20on%20new%20kb-min.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=620537%7C4688",
+        "product_title": "House Full",
+        "product_description": "2 Broasted Burger - 1 Bbq Wings - 1 Gyro - 1 Hot Shots - 1 Ltr Drink",
+        "product_price": "2425",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1670321578-WhatsApp%20Image%202022-12-06%20at%2012.56.12%20PM%20(2).jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26675%7C4688",
+        "product_title": "Double or Nothing",
+        "product_description": "Quarter Broast , Broasted Burger & 500ml Drink",
+        "product_price": "1275",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1708411580-asdasdasd.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26676%7C4688",
+        "product_title": "Fun For 4",
+        "product_description": "Full Broast & 1 Litre Drink",
+        "product_price": "2485",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1708411530-fun%204.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26678%7C4688",
+        "product_title": "Good For 4",
+        "product_description": "Half Broast , 2 Broasted Burgers & 1 Litre Drink",
+        "product_price": "2475",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1708424505-sad3.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=693321%7C4695",
+        "product_title": "Value Chicken Burger Meal",
+        "product_description": "",
+        "product_price": "625",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711439859-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=693323%7C4695",
+        "product_title": "Garlic Gyro Meal",
+        "product_description": "",
+        "product_price": "575",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711439848-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=693324%7C4695",
+        "product_title": "Classic Gyro Meal",
+        "product_description": "",
+        "product_price": "565",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711439843-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=693608%7C4695",
+        "product_title": "Spicy Chicken Burger Meal",
+        "product_description": "",
+        "product_price": "895",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711605638-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=693609%7C4695",
+        "product_title": "Spicy Chicken Stacker Meal",
+        "product_description": "",
+        "product_price": "1125",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711605689-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26687%7C4695",
+        "product_title": "Broasted Burger Meal",
+        "product_description": "Broasted Burger served with Regular Fries and Drink",
+        "product_price": "845",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566445-3.-Broasted-Burger-Meal.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26688%7C4695",
+        "product_title": "Broasted Jalepeno Burger Meal",
+        "product_description": "Broasted Jalapeno Burger served with Regular Fries and Drink",
+        "product_price": "875",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566440-4.-Broasted-Jalapeno-Burger-Meal.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26694%7C4695",
+        "product_title": "Broasted Stacker Meal",
+        "product_description": "Broasted Stacker Burger served with Regular Fries and Drink",
+        "product_price": "1075",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566406-10.-Broasted-Stacker-Meal.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26708%7C4692",
+        "product_title": "Garlic Gyro",
+        "product_description": "Crispy HotShots wrapped in Pita Bread with Garlic Mayo Sauce and Vegetables",
+        "product_price": "325",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566241-1.-Garlic-Gyro.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Gyro"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26709%7C4692",
+        "product_title": "Classic Gyro",
+        "product_description": "Crispy HotShots wrapped in Pita Bread with  Sauce and Vegetables",
+        "product_price": "315",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566237-2.-Classic-Gyro.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Gyro"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=632592%7C4693",
+        "product_title": "Garlic Mayo Fries",
+        "product_description": "",
+        "product_price": "425",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711445631-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=632593%7C4693",
+        "product_title": "BBQ Fries",
+        "product_description": "",
+        "product_price": "425",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711445640-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=632595%7C4693",
+        "product_title": "Mustard Blast Fries",
+        "product_description": "",
+        "product_price": "425",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711445652-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=632596%7C4693",
+        "product_title": "BBQ Wings",
+        "product_description": "",
+        "product_price": "545",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711445658-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=632597%7C4693",
+        "product_title": "Buffalo Wings",
+        "product_description": "",
+        "product_price": "545",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711445665-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=693326%7C4693",
+        "product_title": "Pizza Fries",
+        "product_description": "",
+        "product_price": "550",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711439837-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=693327%7C4693",
+        "product_title": "Boastzza",
+        "product_description": "",
+        "product_price": "775",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1711439831-1625563526-logo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26710%7C4693",
+        "product_title": "Regular Fries",
+        "product_description": "100 gms Fresh Cut Potatoes",
+        "product_price": "250",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566203-1.-Regular-Fries.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26711%7C4693",
+        "product_title": "Bucket Fries",
+        "product_description": "150 gms Fresh Cut Potatoes",
+        "product_price": "350",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566198-2.-Bucket-Fries.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26713%7C4693",
+        "product_title": "Wings",
+        "product_description": "6 pcs Chicken Wings tossed in Choice of Sauces",
+        "product_price": "545",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566186-4.-Wings.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26714%7C4693",
+        "product_title": "Hot Shots",
+        "product_description": "9 pcs Fried Crunchy Chicken Hot Shots",
+        "product_price": "425",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566181-5.-HotShots.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26715%7C4693",
+        "product_title": "Nuggets",
+        "product_description": "Tender Crispy Nuggets",
+        "product_price": "from   425",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566176-6.-Nuggets.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=30387%7C5388",
+        "product_title": "Bundle Pack 1",
+        "product_description": "Offers 20 Qtr Broast",
+        "product_price": "12000",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1628577228-bn1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Big Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=30388%7C5388",
+        "product_title": "Bundle Pack 2",
+        "product_description": "Offers 40 Qtr Broast",
+        "product_price": "24000",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1628577309-bn1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Big Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=30389%7C5388",
+        "product_title": "Bundle Pack 3",
+        "product_description": "Offers 20 Broasted Burgers",
+        "product_price": "10000",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1628577361-bd3.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Big Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=30390%7C5388",
+        "product_title": "Bundle Pack 4",
+        "product_description": "Offers 40 Broasted Burger",
+        "product_price": "20000",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1628577424-bd3.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Big Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=30391%7C5388",
+        "product_title": "Bundle Pack 1",
+        "product_description": "Offers 20 Qtr Broast",
+        "product_price": "12000",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1628577773-bn1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Big Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=30392%7C5388",
+        "product_title": "Bundle Pack 2",
+        "product_description": "Offers 40 Qtr Broast",
+        "product_price": "24000",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1628577792-bn1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Big Deal"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=619557%7C4694",
+        "product_title": "1 Litre Drink",
+        "product_description": "",
+        "product_price": "175",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1665732019-11111.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=38087%7C4694",
+        "product_title": "Mineral Water",
+        "product_description": "",
+        "product_price": "90",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1637650724-ddd.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26716%7C4694",
+        "product_title": "Soft Drink",
+        "product_description": "345 ml Can ( Pepsi , 7up , Mirinda & Mountain Dew )",
+        "product_price": "120",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566135-1.-Soft-Drink.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=26718%7C4694",
+        "product_title": "Slice Juice",
+        "product_description": "Mango Juice 250 ml",
+        "product_price": "75",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1625566112-3.-Slice-Juice.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Beverage"
+    }
+]

@@ -1,0 +1,712 @@
+[
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699692%7C415331",
+        "product_title": "Dynamite Prawn (Customer Choice)",
+        "product_description": "Spicy bites in our fiery dynamite sauce. 4 Pieces",
+        "original_price": "1140",
+        "discount_price": "1026",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715708818-Dynamite%20Prawns.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699696%7C415331",
+        "product_title": "Dynamite Chicken (All Time Fav.)",
+        "product_description": "Fiery dynamite blend elevates these chicken morsels. 4 Pieces",
+        "original_price": "1035",
+        "discount_price": "932",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715708924-Dynamite%20Chicken.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699697%7C415331",
+        "product_title": "Dynamite Fish (New)",
+        "product_description": "Spicy Fish bites in our fiery dynamite sauce. 4 Pieces",
+        "original_price": "1035",
+        "discount_price": "932",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716074700-WhatsApp%20Image%202024-05-18%20at%204.25.52%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699701%7C415331",
+        "product_title": "Prawn on the Toast",
+        "product_description": "Seasoned prawn on Golden toast lighhtly crisped. 8 Pieces",
+        "original_price": "895",
+        "discount_price": "806",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716075078-WhatsApp%20Image%202024-05-18%20at%204.31.21%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699702%7C415331",
+        "product_title": "Chicken on the Toast (New)",
+        "product_description": "Seasoned Chicken on Golden toast lighhtly crisped. 8 Pieces",
+        "original_price": "795",
+        "discount_price": "716",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716074916-Chicken%20on%20Toast.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699705%7C415331",
+        "product_title": "Umbrella Chicken (New)",
+        "product_description": "Crispy, delicately shaped like an umbrella, and fried to perfection. 4 Pieces",
+        "original_price": "1245",
+        "discount_price": "1121",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715955042-umbresk-min.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699707%7C415331",
+        "product_title": "Butterfly Prawns",
+        "product_description": "Prawn Split open and breaded, fried to a golden perfection 4 Pieces",
+        "original_price": "1075",
+        "discount_price": "968",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715709220-Butterfly%20Prawns.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699694%7C415331",
+        "product_title": "Prawn Balls",
+        "product_description": "",
+        "original_price": "985",
+        "discount_price": "887",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715708865-Prawn%20Balls.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699695%7C415331",
+        "product_title": "Chicken Balls (New)",
+        "product_description": "Juicy chicken meatballs, Lightly Seasoned and fried. 4 pieces",
+        "original_price": "895",
+        "discount_price": "806",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716074771-WhatsApp%20Image%202024-05-18%20at%204.27.24%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699703%7C415331",
+        "product_title": "Crumb Fried Fish",
+        "product_description": "Breaded fish fillet,served with tarter sauce & fries. 2 Pieces",
+        "original_price": "1145",
+        "discount_price": "1031",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715910364-Crumb-Fried-Fish.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699706%7C415331",
+        "product_title": "Chilli Garlic Wings",
+        "product_description": "A bold blend of heat and flavor. 6 Pieces",
+        "original_price": "790",
+        "discount_price": "711",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715955177-wing.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699708%7C415331",
+        "product_title": "Honey Chilli Wings",
+        "product_description": "Sweet Spicy harmony 6 Pieces",
+        "original_price": "790",
+        "discount_price": "711",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715709232-Honey%20Chilli%20Wings.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699679%7C415329",
+        "product_title": "Chicken Corn Soup",
+        "product_description": "Tender chicken, sweet corn, savory\n\nbroth fusion",
+        "original_price": "525",
+        "discount_price": "473",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715655739-Chicken%20Corn%20Soup.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699680%7C415329",
+        "product_title": "Shrimp Corn Soup",
+        "product_description": "Succulent shrimp, sweet corn in a cozy\n\nbroth.",
+        "original_price": "625",
+        "discount_price": "563",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716077343-WhatsApp%20Image%202024-05-18%20at%205.10.12%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699681%7C415329",
+        "product_title": "Crab Corn Soup",
+        "product_description": "Rich crab and sweet corn in velvety\n\nsoup",
+        "original_price": "625",
+        "discount_price": "563",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716000234-corn-n-scrb-soup.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699682%7C415329",
+        "product_title": "Wonton Soup",
+        "product_description": "Home made clear broth with chicken\n\nwontons.",
+        "original_price": "495",
+        "discount_price": "446",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715708600-Wonton%20Noodle%20Soup.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699683%7C415329",
+        "product_title": "Street Style Chicken Corn Soup with Slims",
+        "product_description": "Street-inspired topped with slims and\n\nboiled egg.",
+        "original_price": "525",
+        "discount_price": "473",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715708580-Street%20Style%20Chicken%20Soup%20with%20Slims.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699684%7C415329",
+        "product_title": "Hot & Sour Soup White",
+        "product_description": "Ginsoy signature soup that is bold and spicy white",
+        "original_price": "575",
+        "discount_price": "518",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715655934-Hot%20Sour%20White.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699685%7C415329",
+        "product_title": "Hot & Sour Soup Red",
+        "product_description": "Ginsoy signature soup that is bold and spicy",
+        "original_price": "525",
+        "discount_price": "473",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715656081-Hot%20%20Sour%20Red.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699686%7C415329",
+        "product_title": "Schezwan Soup",
+        "product_description": "Southasian Fusion, classic Schezwan\n\nflavours",
+        "original_price": "575",
+        "discount_price": "518",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715656192-Schezwan%20Soup.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699687%7C415329",
+        "product_title": "Thai Soup",
+        "product_description": "Spicy chicken Broth ,crispy rice\n\nand lemmon",
+        "original_price": "565",
+        "discount_price": "509",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715656257-Thai%20Soup.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699724%7C415336",
+        "product_title": "Steamed Chicken Dumplings",
+        "product_description": "Flavourful,spicy,hand-wrapped,smokey sauce drizzle.",
+        "original_price": "790",
+        "discount_price": "711",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716256430-WhatsApp%20Image%202024-05-18%20at%204.51.52%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Chinese"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699781%7C415336",
+        "product_title": "Steamed Shezwan Chicken Dumplings",
+        "product_description": "Spicy Schezwan twist,tender chicken\n\nwrapped delight.",
+        "original_price": "890",
+        "discount_price": "801",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716243278-WhatsApp%20Image%202024-05-18%20at%204.49.42%20AM%20(1).jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Chinese"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699782%7C415336",
+        "product_title": "Steamed Shrimp Dumplings",
+        "product_description": "Hand-wrapped daily, spicy, smoky \n\nsauce drizzle.",
+        "original_price": "890",
+        "discount_price": "801",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716243308-WhatsApp%20Image%202024-05-18%20at%204.51.52%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Chinese"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699783%7C415336",
+        "product_title": "Steamed Vegetable Dumplings",
+        "product_description": "Fresh ,vibrant veggies, delicately\n\nwrapped",
+        "original_price": "690",
+        "discount_price": "621",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716243332-WhatsApp%20Image%202024-05-18%20at%204.51.52%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Chinese"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701322%7C415531",
+        "product_title": "Kung Pao",
+        "product_description": "Spicy, sweet and nutty delight.",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600275-Kung%20Pao.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701323%7C415531",
+        "product_title": "Sweet & Sour",
+        "product_description": "Perfect harmony of sweet &\n\ntangy",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600461-Sweet%20%20Sour.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701324%7C415531",
+        "product_title": "Kindu Supreme",
+        "product_description": "Richly layered, creamy with a\n\nhint of spice",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600474-Kindu%20Supreme.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701325%7C415531",
+        "product_title": "Classic Chili with Lots of Veggie",
+        "product_description": "Spicy, veg-packed, try with\n\ntender chicken",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600492-Classic%20Chilli%20with%20Lots%20of%20Veggie.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701326%7C415531",
+        "product_title": "Spicy Shezwan",
+        "product_description": "Authentic fiery flavors from schezwan.",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600174-Spicy%20Shezwan.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701327%7C415531",
+        "product_title": "Black Pepper",
+        "product_description": "Freshly crushed peppers, sharp\n\nwarmth",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600166-Black%20Pepper.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701328%7C415531",
+        "product_title": "Mongolian",
+        "product_description": "Boldly seasoned with an eastern\n\nzest",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600156-Mongolian.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701329%7C415531",
+        "product_title": "Hot Manchurian Red",
+        "product_description": "",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600149-Hot%20Manchurian%20Red.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701330%7C415531",
+        "product_title": "Hot Manchurian White",
+        "product_description": "",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600140-Hot%20Manchurian%20white.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701331%7C415531",
+        "product_title": "Cherry Chili",
+        "product_description": "Sweetly glazed, fruit-infused tenderness.",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600125-Cherry%20Chilli.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701332%7C415531",
+        "product_title": "Classic Chilli Gravy",
+        "product_description": "A timeless blend marrying, the head of\n\nChilis with a velvety touch",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600062-Classic%20Chilli%20Gravy.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701333%7C415531",
+        "product_title": "Hot & Spicy",
+        "product_description": "",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600021-Hot%20%20Spicy.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701334%7C415531",
+        "product_title": "Spicy Garlic",
+        "product_description": "Aromatic garlic meets bold spice.",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716599987-Spicy%20Garlic.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Soup"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701335%7C415532",
+        "product_title": "Classic Chili Dry",
+        "product_description": "Pure Chili flavors, mildly\n\ndry & spicy.",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600363-Classic%20Chilli%20Dry.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Chinese"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701336%7C415532",
+        "product_title": "Crispy Chili Dry",
+        "product_description": "Spicy crunch, umami addictive.",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Chinese"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701337%7C415532",
+        "product_title": "Red Chili Pepper",
+        "product_description": "Perfectly spiced with tender.",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600340-Red%20Chilli%20Pepper.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Chinese"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701339%7C415532",
+        "product_title": "Dragon",
+        "product_description": "Bold Spice, Fiery flavor.",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600299-Dragon.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Chinese"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701340%7C415532",
+        "product_title": "Honey Chili",
+        "product_description": "Sweet and spicy touch of salt.",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600290-Honey%20Chilli.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Chinese"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701341%7C415532",
+        "product_title": "Crispy Beijing",
+        "product_description": "Perfectly crisped with a tangy\n\ntwist.",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716600281-Crispy%20Beijing.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Chinese"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699715%7C415334",
+        "product_title": "Cantonese Whole Steamed Fish (Mushka)",
+        "product_description": "Delicately steamed , a testament to regional finesse",
+        "original_price": "3095",
+        "discount_price": "2786",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716075912-WhatsApp%20Image%202024-05-18%20at%204.46.01%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Sea Food"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699717%7C415334",
+        "product_title": "Deep Fried Canton Whole Fish (Mushka)",
+        "product_description": "Clasic Cantonese ,flavours ,ginger-soy",
+        "original_price": "3195",
+        "discount_price": "2876",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716075702-WhatsApp%20Image%202024-05-18%20at%204.42.06%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Sea Food"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699718%7C415334",
+        "product_title": "Deep Fried Whole Fish with House Special Chilli Sauce (Red Snapper)",
+        "product_description": "Ocean fresh with a Ginsoy special Chilli sauce.",
+        "original_price": "3195",
+        "discount_price": "2876",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716075363-WhatsApp%20Image%202024-05-18%20at%204.36.33%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Sea Food"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699719%7C415334",
+        "product_title": "Deep Fried Whole Fish with Tamarind Chiili (Red Snapper)",
+        "product_description": "Whole Battered red snapper fish sauce,tamarind paste,palm sugar,thai red chilli",
+        "original_price": "3195",
+        "discount_price": "2876",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716075552-WhatsApp%20Image%202024-05-18%20at%204.40.28%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Sea Food"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699720%7C415334",
+        "product_title": "Steamed Fish Fillet with chilli Lime Sauce (Red Snapper) (New)",
+        "product_description": "Fillet of steamed red snapper,palm sugar,fish sauce,red chiili,garlic & lemon.",
+        "original_price": "1670",
+        "discount_price": "1503",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716077608-WhatsApp%20Image%202024-05-18%20at%205.13.56%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Sea Food"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701447%7C415563",
+        "product_title": "Chowmein",
+        "product_description": "The best chowmein you have \n\never had.",
+        "original_price": "895",
+        "discount_price": "806",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716836814-Chow%20Mein.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Noodle"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701452%7C415563",
+        "product_title": "Schezwan Noodles",
+        "product_description": "Wok fried noodles with schezwan sauce",
+        "original_price": "995",
+        "discount_price": "896",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716836806-Schezwan%20Noodles.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Noodle"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701455%7C415563",
+        "product_title": "Chop Suey American",
+        "product_description": "Rich flavors, proteins and veggies\n\nserved over crispy noodles",
+        "original_price": "1495",
+        "discount_price": "1346",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716836797-Chop%20Suey%20American.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Noodle"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=701462%7C415563",
+        "product_title": "Chop Suey Chinese",
+        "product_description": "Rich flavors, proteins and veggies\n\nserved over crispy noodles",
+        "original_price": "1495",
+        "discount_price": "1346",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716836790-Chop%20Suey%20Chinese.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Noodle"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699800%7C415337",
+        "product_title": "Fried Rice",
+        "product_description": "",
+        "original_price": "995",
+        "discount_price": "896",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715716645-Chicken%20Fried%20Rice.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Rice"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699801%7C415337",
+        "product_title": "Steamed Rice",
+        "product_description": "Perfectly fluffy ,a versatile \n\naccompaiment.",
+        "original_price": "590",
+        "discount_price": "531",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715908199-Steamed%20Rice.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Rice"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=700101%7C415337",
+        "product_title": "Roasted Garlic Rice",
+        "product_description": "Roasted Garlic Rice\n\nAromatic garlic rice ,simple and flavorful.",
+        "original_price": "910",
+        "discount_price": "819",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715948219-garlic%20rice.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Rice"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699785%7C415338",
+        "product_title": "Chicken Corn Soup",
+        "product_description": "Tender Chicken, sweet corn, \n\nsavory broth fusion",
+        "original_price": "525",
+        "discount_price": "473",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715713133-Chicken%20Corn%20Soup.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Kid"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699786%7C415338",
+        "product_title": "Chicken Chowmien without Spice",
+        "product_description": "Wok tossed noodles",
+        "original_price": "995",
+        "discount_price": "896",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1716000185-chicken-chowmein.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Kid"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699787%7C415338",
+        "product_title": "Chicken Nuggets",
+        "product_description": "A small piece of deboned chicken \n\nmeat that is battered, and \n\ndeep-fried. 4 Pieces",
+        "original_price": "675",
+        "discount_price": "608",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715910234-chicken-nuggets.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Kid"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699788%7C415338",
+        "product_title": "Egg Fried Rice",
+        "product_description": "Wok tossed with egg & veg",
+        "original_price": "1195",
+        "discount_price": "1076",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715713326-Egg%20Fried%20Rice.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Kid"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699789%7C415338",
+        "product_title": "Crumb Fried Fish",
+        "product_description": "Breaded fish fillet,served with Tarter \n\nsauce & Fries. 2 Pieces",
+        "original_price": "1145",
+        "discount_price": "1031",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715910357-Crumb-Fried-Fish.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Kid"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699790%7C415338",
+        "product_title": "Basket Of Fries",
+        "product_description": "Perfectly Golden fries of \n\nIndulgent snacking.",
+        "original_price": "790",
+        "discount_price": "711",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715713363-Basket%20of%20Fries.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Kid"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699803%7C415339",
+        "product_title": "Mint Lemonade",
+        "product_description": "Zesty Mint Refreshment",
+        "original_price": "510",
+        "discount_price": "459",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715982431-Mint%20Lemonade.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Mocktail or Shake"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699807%7C415339",
+        "product_title": "Pina Colada",
+        "product_description": "Creamy Tropical Classic",
+        "original_price": "575",
+        "discount_price": "518",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715908707-Pina%20Colada.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Mocktail or Shake"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=699808%7C415339",
+        "product_title": "Blue Lagoon Margarita",
+        "product_description": "Citrusy,Cool and blue",
+        "original_price": "545",
+        "discount_price": "491",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715908744-Blue%20Lagoon%20Margarita.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Mocktail or Shake"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=700054%7C415342",
+        "product_title": "Soft Drinks",
+        "product_description": "",
+        "original_price": "190",
+        "discount_price": "171",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715887806-soft%20drink.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=700055%7C415342",
+        "product_title": "Mineral Water",
+        "product_description": "",
+        "original_price": "155",
+        "discount_price": "140",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715887815-Mineral%20Water.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=700056%7C415342",
+        "product_title": "Fresh Lime With Water",
+        "product_description": "",
+        "original_price": "345",
+        "discount_price": "311",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715887844-WhatsApp%20Image%202024-05-13%20at%2010.33.37%20PM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=700057%7C415342",
+        "product_title": "Fresh Lime with Soda",
+        "product_description": "",
+        "original_price": "395",
+        "discount_price": "356",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715887857-WhatsApp%20Image%202024-05-13%20at%2010.33.37%20PM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=700059%7C415342",
+        "product_title": "Sting",
+        "product_description": "",
+        "original_price": "250",
+        "discount_price": "225",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715887902-WhatsApp%20Image%202024-05-13%20at%2010.33.37%20PM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://order.ginsoy.com/?item_id=700060%7C415342",
+        "product_title": "Ice Cream Soda",
+        "product_description": "",
+        "original_price": "190",
+        "discount_price": "171",
+        "product_image": "https://order.ginsoy.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1715887949-WhatsApp%20Image%202024-05-13%20at%2010.33.37%20PM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Ginsoy",
+        "food_category": "Beverage"
+    }
+]

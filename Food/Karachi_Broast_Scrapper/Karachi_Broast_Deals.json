@@ -1,0 +1,22 @@
+[
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=711260%7C4689",
+        "product_title": "Spicy Broast (Qtr)",
+        "product_description": "Spice Injected Broast, 2 pcs Broast served with Fries, Bun and Signature Garlic Sauce",
+        "original_price": "790",
+        "discount_price": "695",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1721976094-Spicy%20Broast%20(Qtr).jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Broast"
+    },
+    {
+        "product_url": "https://www.karachibroast.co/?item_id=711264%7C4689",
+        "product_title": "Spicy Broast (Half)",
+        "product_description": "Spice Injected Broast, 4 pcs Broast served with Fries, Buns and Signature Garlic Sauce",
+        "original_price": "1580",
+        "discount_price": "1390",
+        "product_image": "https://www.karachibroast.co/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1721976132-Spicy%20Broast%20(Half).jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Karachi Broast",
+        "food_category": "Broast"
+    }
+]

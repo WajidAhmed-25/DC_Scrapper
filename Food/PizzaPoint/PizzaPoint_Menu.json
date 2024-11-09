@@ -1,0 +1,434 @@
+[
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=730828%7C420153",
+        "product_title": "11.11 Deal",
+        "product_description": "1 Regular Pizza1 Small Pizza2 Garlic Bread",
+        "product_price": "1111",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1731042248-11.11%20Deal.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719172%7C418318",
+        "product_title": "Serve 1",
+        "product_description": "1 Small Pizza.",
+        "product_price": "449",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730167794-Artboard%201%20copy%2026.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719173%7C418318",
+        "product_title": "Serve 2",
+        "product_description": "1 Regular Pizza.",
+        "product_price": "849",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730167781-Artboard%201.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719174%7C418318",
+        "product_title": "Serve 3",
+        "product_description": "1 Large Pizza.",
+        "product_price": "1199",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730167755-Artboard%202.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719175%7C418318",
+        "product_title": "Serve 4",
+        "product_description": "2 Regular Pizza.",
+        "product_price": "1599",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730167717-Artboard%203%20copy.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719177%7C418318",
+        "product_title": "Serve 5",
+        "product_description": "1 Regular & 1 Large Pizza.",
+        "product_price": "1999",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730167692-Artboard%203%20copy%202.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719178%7C418318",
+        "product_title": "Serve 6",
+        "product_description": "2 Large Pizza.",
+        "product_price": "2299",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730167677-Artboard%203%20(1).jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719179%7C418320",
+        "product_title": "Sabse Aala Deals 01",
+        "product_description": "1 Small Pizza.",
+        "product_price": "399",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727984434-Sabse%20Aala%20Deal%201%20Tile.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719180%7C418320",
+        "product_title": "Sabse Aala Deals 02",
+        "product_description": "1 Regular Pizza.",
+        "product_price": "699",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727984473-Sabse%20Aala%20Deal%202%20Tile.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719181%7C418320",
+        "product_title": "Sabse Aala Deals 03",
+        "product_description": "1 Large Pizza.",
+        "product_price": "1099",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727984492-Sabse%20Aala%20Deal%203%20Tile.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719208%7C5833",
+        "product_title": "Cheese Garlic Bread",
+        "product_description": "",
+        "product_price": "349",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1725959678-Chese%20Garlic%20Bread_11zon%20(1).jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719209%7C5833",
+        "product_title": "Meaty Garlic Bread",
+        "product_description": "",
+        "product_price": "449",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730166762-Artboard%204.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=614518%7C5833",
+        "product_title": "Cheesy Stick",
+        "product_description": "",
+        "product_price": "399",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1658483991-ReduceImageSize.net_250kb_9111.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=33370%7C5833",
+        "product_title": "Chicken Wings",
+        "product_description": "",
+        "product_price": "from   399",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1725956023-Chicken%20Wings_11zon.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=33374%7C5833",
+        "product_title": "Chicken Nuggets",
+        "product_description": "",
+        "product_price": "from   399",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1725956080-Chicken%20Nuggets_11zon.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=33377%7C5833",
+        "product_title": "Plain Garlic Bread",
+        "product_description": "",
+        "product_price": "249",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1634815814-1631708610-055527ce-a88e-4b82-a97c-b444adbccbab.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719182%7C418322",
+        "product_title": "BBQ Tikka",
+        "product_description": "PIZZA SAUCE, ONIONS, TIKKA FLAVOURED CHIKEN, CHEESE",
+        "product_price": "from   549",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1725955058-BBQ%20Tikka_11zon.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719183%7C418322",
+        "product_title": "Chicken Fajita",
+        "product_description": "PIZZA SAUCE, MARINATED CHK, ONIONS, GREEN PEPPERS, CHEESE.",
+        "product_price": "from   549",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1725955511-Chicken%20Fajita%20(2)_11zon.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719185%7C418322",
+        "product_title": "Fajita Sensation",
+        "product_description": "PIZZA SAUCE, MARINATED CHK, ONIONS, GREEN PEPPERS, JALAPENOS, CHEESE.",
+        "product_price": "from   549",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730166916-Artboard%207.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719188%7C418322",
+        "product_title": "Malai Boti",
+        "product_description": "DIP SAUCE MAYO, CHK TIKKA MEAT, ONION CHEESE, .",
+        "product_price": "from   549",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1726652185-Aba_11zon.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719189%7C418322",
+        "product_title": "Afghani Feast",
+        "product_description": "1000 SAUCE, AFGHANI FLAVOURED CHK, MUSHROOMS, JALAPENOS, CHEESE.",
+        "product_price": "from   549",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1725954926-Afghani%20Feast%20(2)_11zon.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719190%7C418322",
+        "product_title": "Bihari Tikka",
+        "product_description": "PIZZA SAUCE, BIHARI TIKKA, ONIONS, CHEESE.",
+        "product_price": "from   549",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1726652269-bbbb_11zon.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719191%7C418322",
+        "product_title": "Veggie Lover",
+        "product_description": "PIZZA SAUCE, MUSHROOMS, OLIVES, ONIONS, GREEN PEPPERS, SWEET CORNS, TOMATOES, CHEESE.",
+        "product_price": "from   549",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1725960278-veggi_11zon.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719192%7C418323",
+        "product_title": "Shawarma Lover",
+        "product_description": "1000 SAUCE, SHAWARMA FLAVOURED CHK, ONIONS, MUSHROOM, GREEN PEPPERS, JALAPENOS, CHEESE.",
+        "product_price": "from   599",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1726929737-logo.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719193%7C418323",
+        "product_title": "Spicy Italian",
+        "product_description": "PIZZA SAUCE, MARINATED CHK, MUSHROOMS, OLIVES, GREEN PEPPERS, JALAPENOS, CHEESE.",
+        "product_price": "from   599",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1726929749-logo.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719195%7C418323",
+        "product_title": "Italian Light",
+        "product_description": "PIZZA SAUCE, CHK SAUSAGES, SMOKED CHK, MUSHROOMS, GREEN PEPPERS, TOMATOES, OLIVES, CHEESE",
+        "product_price": "from   599",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730168028-Artboard%205.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719196%7C418323",
+        "product_title": "Cheesy Lover",
+        "product_description": "PIZZA SAUCE, CHEESE (100% CHEESE).",
+        "product_price": "from   599",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1725955402-Chese%20Lover_11zon.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719197%7C418323",
+        "product_title": "Cheese & Pepperoni",
+        "product_description": "PIZZA SAUCE, BEEF PEPPERONI, CHEESE.",
+        "product_price": "from   599",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730166818-Artboard%206%20copy%202.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719198%7C418324",
+        "product_title": "Chicken Max",
+        "product_description": "PIZZA SAUCE, CHK FAJITA, CHK TIKKA, SMOKE CHK, CHK SAUSAGES, ONIONS, MUSHROOMS, GREEN PEPPERS, OLIVES, CHEESE.",
+        "product_price": "from   649",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1725955969-Chicken%20Max_11zon.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719199%7C418324",
+        "product_title": "Super Max",
+        "product_description": ": PIZZA SAUCE, MARINATED BEEF, SMOKED VEAL, PEPPERONI, SMOKE CHK, CHK SAUSAGES, ONIONS, MUSHROOMS, GREEN PEPPERS, OLIVES, CHEESE.",
+        "product_price": "from   649",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1726929786-logo.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719200%7C418324",
+        "product_title": "Beef Max",
+        "product_description": "PIZZA SAUCE, MARINATED BEEF, SMOKED VEAL, PEPPERONI, ONIONS, MUSHROOMS, GREEN PEPPERS, OLIVES, CHEESE.",
+        "product_price": "from   649",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1725955106-Beef%20Max_11zon.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719201%7C418324",
+        "product_title": "Beef Sicilian",
+        "product_description": "PIZZA SAUCE, MARINATED BEEF, SMOKED VEAL, ONIONS, MUSHROOMS, GREEN PEPPERS, JALAPENOS, CHEESE .",
+        "product_price": "from   649",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730167978-Artboard%208.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719202%7C418324",
+        "product_title": "Beef Sensation",
+        "product_description": "PIZZA SAUCE, MARINATED BEEF, ONIONS, JALAPENOS, GREEN PEPPERS, TOMATOES, CHEESE.",
+        "product_price": "from   649",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730166885-Artboard%208.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719203%7C418324",
+        "product_title": "Kabab Chaska",
+        "product_description": "PIZZA SAUCE, TIKKA FLAVOURED CHK, ONIONS, GREEN PEPPERS, TOMATOES, OLIVES, SEEKH KABAB STRIPS(CHICKEN), CHEESE.",
+        "product_price": "from   1499",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1726930237-Kabab%20Chaska_11zon.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719204%7C418324", 
+        "product_title": "Arabic Green",
+        "product_description": "GREEN SAUCE, MARINATED CHK IN GREEN SHAWARMA SAUCE, ONIONS, MUSHROOMS, GREEN PEPPERS, JALAPENOS, GREEN OLIVES, CHEESE.",
+        "product_price": "from   649",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730166954-Artboard%206%20copy.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pizza"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719211%7C418325",
+        "product_title": "Chicken Sandwich",
+        "product_description": "",
+        "product_price": "699",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1726930018-logo.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Sandwich"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719212%7C418325",
+        "product_title": "Mexican Sandwich",
+        "product_description": "",
+        "product_price": "699",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730166708-Artboard%203.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Sandwich"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719213%7C418326",
+        "product_title": "Chicken Pasta",
+        "product_description": "",
+        "product_price": "799",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1725955877-Chkn%20Pasta_11zon%20(1).jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pasta"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719214%7C418326",
+        "product_title": "Chicken Lasagna",
+        "product_description": "",
+        "product_price": "799",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1725959697-Chicken%20Lasagne_11zon%20(1).jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Pasta"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719215%7C418327",
+        "product_title": "Plain Fries",
+        "product_description": "",
+        "product_price": "349",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1725961375-Plain%20Fries_11zon.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Fries"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719217%7C418327",
+        "product_title": "Mayo Dip Fries",
+        "product_description": "",
+        "product_price": "399",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1726930094-logo.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Fries"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719262%7C418333",
+        "product_title": "Garlic Dip Sauce",
+        "product_description": "",
+        "product_price": "50",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730166647-Artboard%201.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719263%7C418333",
+        "product_title": "Spicy Sauce",
+        "product_description": "",
+        "product_price": "50",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730166665-Artboard%202.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=719264%7C418333",
+        "product_title": "BBQ Sauce",
+        "product_description": "",
+        "product_price": "50",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730166628-Artboard%201%20copy%2026.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=33386%7C5835",
+        "product_title": "Mirinda",
+        "product_description": "",
+        "product_price": "from   99",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1634815700-1631708206-mzri.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=33387%7C5835",
+        "product_title": "Dew",
+        "product_description": "",
+        "product_price": "from   99",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1634815693-1631708169-dew.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=33388%7C5835",
+        "product_title": "7up",
+        "product_description": "",
+        "product_price": "from   99",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1634815685-1631708145-upc9f4b830-8aa8-46f1-b646-d611c3608270.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://www.pizzapoint.com.pk/?item_id=33389%7C5835",
+        "product_title": "Pepsi",
+        "product_description": "",
+        "product_price": "from   99",
+        "product_image": "https://www.pizzapoint.com.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1634815678-1631708118-2249c6f3-368d-40cb-a841-eadf04232261.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Pizza Point",
+        "food_category": "Beverage"
+    }
+]

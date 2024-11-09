@@ -1,0 +1,578 @@
+[
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627196%7C404128",
+        "product_title": "Dairy Milk Cake",
+        "product_description": "Nothing But The Perfection Of Light Dairy Milk Chocolate In Every Bite!",
+        "product_price": "from   1990",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672380915-Dairy%20Milk%20Cake.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627197%7C404128",
+        "product_title": "Chocolate Heaven Cake",
+        "product_description": "Light Chocolate Icing With Double Layer Of Soft Chocolate Sponge That Is Sure To Remind You Of Heaven!",
+        "product_price": "from   1590",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695212-chocolate-heaven-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627198%7C404128",
+        "product_title": "Belgian Malt Cake",
+        "product_description": "Made From The Purest Belgian Chocolate Found In The Heart Of Belgian Valleys!",
+        "product_price": "from   1990",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695197-begian-malt-cake-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627199%7C404128",
+        "product_title": "Ferrero Classic Cake",
+        "product_description": "A Classic That Can't Be Beat! Made From Ferrero Hazelnut Chocolate & Roasted Nuts!",
+        "product_price": "from   2090",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672381111-Ferrero%20Classic%20Cake.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627200%7C404128",
+        "product_title": "Nutella Cake",
+        "product_description": "A Guilty Pleasure That You Won't Be Able To Resist! Made From Nutella & Imported Cream!",
+        "product_price": "from   2050",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672381139-Nutella%20Cake.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627201%7C404128",
+        "product_title": "Red Velvet Cake",
+        "product_description": "A Velvety Affair Like No Other! Cereme Cheese Frosting On Velvety Soft Red Sponge!",
+        "product_price": "from   1950",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695185-red-velvet-cake-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627202%7C404128",
+        "product_title": "Salted Caramel Cake",
+        "product_description": "You'll Fall In Love With Every Bite Of This! Salted Caramel, Cr\u00e8me Cheese & Moist, Vanilla Sponge!",
+        "product_price": "from   2290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695173-salted-caramel-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627204%7C404128",
+        "product_title": "KitKat Cake",
+        "product_description": "Made With Imported Chocolate with KitKat Wafers!",
+        "product_price": "from   1990",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695107-kitkat-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627205%7C404128",
+        "product_title": "German Fudge Cake",
+        "product_description": "Authentic Fudge So Light That It Will Melt Your Heart!",
+        "product_price": "from   1700",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695097-german-fudge-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627206%7C404128",
+        "product_title": "Chocolate Mousse Cake",
+        "product_description": "The Lightest Chocolate Cake In Town That Will Have You Floating",
+        "product_price": "from   1450",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672381550-Chocolate%20Mousse%20Cake.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627207%7C404128",
+        "product_title": "Coffee Cake",
+        "product_description": "Light Cr\u00e8me Cheese Icing With A 'Sweet Sense Of Coffee' Which Will Remind You What Love Tastes Like!",
+        "product_price": "from   1750",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695089-coffee-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627208%7C404128",
+        "product_title": "Lotus Cake",
+        "product_description": "Lotus Biscoff Spread with Cream Cheese on a Fluffy Vanilla Sponge and Crushed Lotus Biscuits on Top",
+        "product_price": "from   2450",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695072-lotus-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627209%7C404128",
+        "product_title": "Lotus Three Milk Cake",
+        "product_description": "The perfect blend of lotus and three milk cake is something that you are bound to fall in love with.",
+        "product_price": "from   2150",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672381662-Lotus%20Three%20Milk%20Cake.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627210%7C404128",
+        "product_title": "Honey Cake",
+        "product_description": "8 Layers Of Soft, Caramelized Honey Cakes Sandwiched Between A Cloud Like Burnt Honey & Dulce De Leche Whipped Cream!",
+        "product_price": "from   2090",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672381743-Honey%20Cake.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627214%7C404128",
+        "product_title": "Three Milk Cake",
+        "product_description": "Vanilla Sponge Cake in Three Kind of Milk; Whole Milk, Evaporated Milk and Condensed Milk!",
+        "product_price": "from   1990",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695061-three-milk-cake-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627215%7C404128",
+        "product_title": "Milky Malt Cake",
+        "product_description": "Your Own Little Piece Of Heaven! Imported Malt Blended With Premium Cocao & Fresh Cream!",
+        "product_price": "from   1590",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695041-milky-malt-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627773%7C404128",
+        "product_title": "Decedance Cake",
+        "product_description": "Dive Into The Decadence! Flourless Sponge With Triple Chocolate Layer's & Whipped Cream!",
+        "product_price": "from   1990",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695010-decedance-cake-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627779%7C404128",
+        "product_title": "Leamon Cheese Cake",
+        "product_description": "Our Lemon Cheesecake balances the palate of your sweet tooth in every blissful bite!",
+        "product_price": "from   1550",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673694928-lemon-cheese-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627780%7C404128",
+        "product_title": "Galaxy Cake",
+        "product_description": "A Cake That's Truly Out Of This World! Swirl's Of Galaxy On The Outside & Smooth Galaxy Chocolate Inside!",
+        "product_price": "from   1850",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673694912-glaxy--min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627781%7C404128",
+        "product_title": "Philadelphia Cheese Cake",
+        "product_description": "the original indulgence, straight from Philadelphia! Clouds of original Philadelphia cream cheese ready to eat",
+        "product_price": "from   1950",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1681587135-3A1A3037.JPG%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=637144%7C404128",
+        "product_title": "Raffeallo Classic Cake",
+        "product_description": "A Delight That Will Set Your Mood Just Right! Super Moist Vanilla Sponge Topped With White\u00a0Chocolate!",
+        "product_price": "from   2350",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1678973370-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=674347%7C404128",
+        "product_title": "Chocolate Cheese Cake 7 Inch",
+        "product_description": "Savor love and joy in every bite of our Chocolate Cheesecake, a perfect blend of cream cheese, Oreo bliss, and Belgian\u00a0chocolate!",
+        "product_price": "1990",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1712314849-Chocolate%20Cheese%20Cake.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=715079%7C404128",
+        "product_title": "Molten Chocolate Ectasy",
+        "product_description": "",
+        "product_price": "2150",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1723820029-molten.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627216%7C404129",
+        "product_title": "Box Of 6 Donuts",
+        "product_description": "Choose any 6 flavours Flavors.",
+        "product_price": "1450",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672382914-Box%20Of%206%20Donuts.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Donut"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627217%7C404129",
+        "product_title": "Ferredo Donut",
+        "product_description": "",
+        "product_price": "270",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695778-fredo-donuts-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Donut"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627218%7C404129",
+        "product_title": "Belgian Dream Donut",
+        "product_description": "Fluffy Clouds Of Chocolaty Delight In Every Bite!",
+        "product_price": "270",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695767-belgian-dream-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Donut"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627220%7C404129",
+        "product_title": "Good OL Chocolate Donut",
+        "product_description": "The Original Treat With A Topping Of Rich Chocolate To Sweeten The Deal!",
+        "product_price": "270",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695752-good-ol-chocolate-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Donut"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627221%7C404129",
+        "product_title": "Velvet creme Donut",
+        "product_description": "Luscious Cream Cheese Filling With A Sprinkling Of Red Velvet Cake!",
+        "product_price": "270",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672383154-Velvet%20creme%20Donut.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Donut"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627222%7C404129",
+        "product_title": "Chocolate Madness Donut",
+        "product_description": "The Cookie Monster's Favorite Donut! Crumbly & Chocolaty On The Outside, Fluffy And Cloudy On The Inside!",
+        "product_price": "270",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695727-chocolate-madness-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Donut"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627223%7C404129",
+        "product_title": "Lotus Love Donut",
+        "product_description": "Glazed With Love And A Whole Lot Of Lotus Crumbs!",
+        "product_price": "270",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695708-lotus-love-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Donut"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627224%7C404129",
+        "product_title": "Strawbaby Donut",
+        "product_description": "Dollops Of Homemade Strawberry Jam Resting Between Clouds Of Love!",
+        "product_price": "270",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672383287-Strawbaby%20Donut.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Donut"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=639966%7C404129",
+        "product_title": "Glazed",
+        "product_description": "The iconic Naughty Vanilla Glaze and heavenly dough combines together to give something so good you won't be able to resist!",
+        "product_price": "270",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1681587355-3A1A1287t.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Donut"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=641352%7C404129",
+        "product_title": "Box Of 2 Donuts",
+        "product_description": "Choose any 2 flavours Flavors.",
+        "product_price": "450",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1681198790-de.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Donut"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627225%7C404130",
+        "product_title": "Ferrero Rocher",
+        "product_description": "A timeless dessert that appeals to everyone's heart!",
+        "product_price": "290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695582-ferrero-rocher-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cupcake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627226%7C404130",
+        "product_title": "Red Velvet",
+        "product_description": "Cr\u00e8me Cheese, Red Velvety Sponge topped with lots of love!",
+        "product_price": "290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695569-red-velvet-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cupcake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627227%7C404130",
+        "product_title": "Belgian Malt",
+        "product_description": "Made from Premium Belgian Chocolate to remind you about love!",
+        "product_price": "290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672383411-Belgian%20Malt.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cupcake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627228%7C404130",
+        "product_title": "Chocolate Hazelnut",
+        "product_description": "Milk Chocolate with Hazelnut Chocolate Drippings that will have you falling in love again!",
+        "product_price": "290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695546-chocolate-hazel-nut-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cupcake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627230%7C404130",
+        "product_title": "M&M",
+        "product_description": "Cr\u00e8me Milk Chocolate with Crushed M&M's inside which guarantees to make you happy!",
+        "product_price": "290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695520-mnm.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cupcake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627231%7C404130",
+        "product_title": "Chocolate Cream Cheese",
+        "product_description": "The Ideal Mixture of Chocolate & Cr\u00e8me!",
+        "product_price": "290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695489-chocolate-cream-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cupcake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627232%7C404130",
+        "product_title": "Oreo Cookie",
+        "product_description": "Lose yourself in the Oreo Cookies With Cr\u00e8me Cheese On Chocolate Base!",
+        "product_price": "290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695473-oreo-cookie-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cupcake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627233%7C404130",
+        "product_title": "Swiss Dark Chocolate",
+        "product_description": "The Dark Cr\u00e8me Swiss Chocolate Frosting is a love like no other!",
+        "product_price": "290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695458-swiss-dark-chocolate-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cupcake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627235%7C404130",
+        "product_title": "Lotus Biscoff",
+        "product_description": "Artistically Made Using Imported Cream Cheese & Lotus Biscoff Spread On Soft Vanilla Sponge!",
+        "product_price": "290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672383753-Lotus%20Biscoff.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cupcake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627236%7C404130",
+        "product_title": "Lite Coffee",
+        "product_description": "Cr\u00e8me Cheese Frosting With A 'Hint Of Coffee'!",
+        "product_price": "290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1700226673-coffee%20cup%20cake.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cupcake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627238%7C404130",
+        "product_title": "Salted Caramel",
+        "product_description": "Find happiness in every bite of the Salted Caramel, Cr\u00e8me Cheese & Moist Vanilla Sponge!",
+        "product_price": "290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695375-salted-caramel-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cupcake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=639964%7C404130",
+        "product_title": "Classic Cup",
+        "product_description": "A classical love that you can find only in this!",
+        "product_price": "290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1681587316-3A1A2630.JPG%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cupcake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=639965%7C404130",
+        "product_title": "Milk Chocolate Cupcake",
+        "product_description": "Nothing but Soft & Classic Milk Chocolate that you will love for sure!",
+        "product_price": "290",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1681587328-3A1A2539.JPG%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Cupcake"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627240%7C404131",
+        "product_title": "Belgian Malt Brownie",
+        "product_description": "Imported Chocolate Frosting on a Soft Brownie!",
+        "product_price": "190",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673694587-belgian-malt-brownie-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Brownie"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627242%7C404131",
+        "product_title": "Peanut Butter Stack Brownie",
+        "product_description": "Light Milk Chocolate, Buttery Caramel & Chocolate Brownie With Peanut Butter Crunch!",
+        "product_price": "210",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673694505-peanut-butter-stack-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Brownie"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627244%7C404131",
+        "product_title": "Cadbury Brownie",
+        "product_description": "Cadbury Chocolate Frosting On Super Moist Brownie!",
+        "product_price": "190",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673694483-cadbury-brownie-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Brownie"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627239%7C404132",
+        "product_title": "Chocolate Chunk Brownie",
+        "product_description": "A Cross of Brownie & Cookie with Imported Chocolate Chunk!",
+        "product_price": "190",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672383926-Chocolate%20Chunk%20Brownie.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627247%7C404132",
+        "product_title": "Hersheys Fudge Brownie",
+        "product_description": "A Gooey Treat For The Chocoholics!",
+        "product_price": "190",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672384576-Hershey%20Fudge%20Brownie.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627249%7C404132",
+        "product_title": "Strawberry Cheesecake",
+        "product_description": "Strawberry Compote Cheese Cake With Whipped Cream At The Top And Premium Butter Biscuit At The Bottom!",
+        "product_price": "420",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1712314824-Strawberry%20Cheese%20Cake.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627252%7C404132",
+        "product_title": "Nutella Sundae",
+        "product_description": "Roasted Nut's, Super Moist Brownie, Cr\u00e8me Cheese & Lots Of Nutella!",
+        "product_price": "370",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673696013-nutella%20sundae-min.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627253%7C404132",
+        "product_title": "Three Milk Sundae",
+        "product_description": "Moist Sponge Soaked In Evaporated Milk, Condensed Milk & Whole Milk Having Smooth Chocolate In Between!",
+        "product_price": "370",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673696025-three-milk-sundae-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627255%7C404132",
+        "product_title": "Galaxy Sundae",
+        "product_description": "Oreo's, Fudge Brownie, Cr\u00e8me Cheese, Short Bread Biscuit's & Galaxy Chocolate!",
+        "product_price": "370",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695992-galaxy-sundae-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627257%7C404132",
+        "product_title": "Lotus Biscoff Sundae",
+        "product_description": "Caramel With Rock Salt Topped Over Brownie, Creme Cheese, Short Bread Biscuits & Rich Chocolate!",
+        "product_price": "370",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673695998-lotus-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627258%7C404132",
+        "product_title": "Red Velvet Sundae",
+        "product_description": "Tangy Cr\u00e8me Cheese With Biscuit's , Red Velvet Brownie & Roasted Nuts!",
+        "product_price": "370",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673696019-red-velvet-sundae-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627259%7C404132",
+        "product_title": "Salted Caramel Sundae",
+        "product_description": "Caramel With Rock Salt Topped Over Brownie, Creme Cheese, Short Bread Biscuits & Rich Chocolate!",
+        "product_price": "370",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672385142-Salted%20Caramel%20Sundae.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627260%7C404132",
+        "product_title": "Lotus Three Milk Sundae",
+        "product_description": "The Three Layered Selfish Indulgence Made With Three Milk's Sweetness And A Whole Lot Of Lotus Love!",
+        "product_price": "370",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1673696005-lotus-three-milk-min.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627261%7C404132",
+        "product_title": "Raspberry Cheesecake",
+        "product_description": "Raspberry Compote Cheese Cake With Whipped Cream At The Top And Premium Butter Biscuit At The Bottom!",
+        "product_price": "420",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672385218-Raspberry%20Cheesecake.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627262%7C404132",
+        "product_title": "Lotus Cheesecake",
+        "product_description": "Adding the love of lotus to the ultimate indulgence! with the brilliance of biscoff in every bite of our signature cheesecake",
+        "product_price": "420",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672385254-Lotus%20Cheesecake.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=627263%7C404132",
+        "product_title": "Kentucky Butter Cake",
+        "product_description": "Soft, Sweet & Milk on the Inside, Crunchy on the Outside!",
+        "product_price": "420",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1672385293-Kentucky%20Butter%20Cake.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=640597%7C404132",
+        "product_title": "Chunk Cookie",
+        "product_description": "",
+        "product_price": "190",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1712314795-Chunk%20Cookie.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    },
+    {
+        "product_url": "https://www.delizia.pk/?item_id=646019%7C404132",
+        "product_title": "Coffee Sundae",
+        "product_description": "",
+        "product_price": "370",
+        "product_image": "https://www.delizia.pk/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1712314871-Coffee%20Sundae.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Delizia",
+        "food_category": "Dessert"
+    }
+]

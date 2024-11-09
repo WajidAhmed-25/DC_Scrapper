@@ -1,0 +1,585 @@
+[
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=729525%7C419981",
+        "product_title": "Dhamaka Deal",
+        "product_description": "3 Zenga Burger & 1.5 ltr Drink",
+        "product_price": "999",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1731032130-1002318459.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=658787%7C416671",
+        "product_title": "SUMMER DEAL 1",
+        "product_description": "Chick N Crunch, Crispy Chicken Pc & Regular Drink [Can/345ml Drink]\n\n(Selecting Chicken part is not Applicable on promotion Set)",
+        "product_price": "620",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730535091-Cricket-deal-1-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=677606%7C414069",
+        "product_title": "PLAIN CRISPY WINGS 8 pcs",
+        "product_description": "8 Pcs. Crisp to perfection, our crispy yet juicy bucket of wings.",
+        "product_price": "640",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1713423114-plain.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Wing"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=692221%7C414069",
+        "product_title": "SIZZLING SALSA WINGS 8 pcs",
+        "product_description": "8 Pcs. Spices to perfection, dusted with our special sizzling salsa seasoning.",
+        "product_price": "640",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1713423161-salsa.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Wing"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=692222%7C414069",
+        "product_title": "BUFFALO SPICY WINGS 8 pcs",
+        "product_description": "8 pcs. Our crispy take on wings topped with tangy spicy buffalo sauce.",
+        "product_price": "640",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1713423395-buffalo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Wing"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=692224%7C414069",
+        "product_title": "THAI SWEET CHILLI WINGSS 8 pcs",
+        "product_description": "8 pcs. Crispy Fried wings, tossed in sweet yet spicy chili sauce for a succlent experience.",
+        "product_price": "640",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1713423278-thai.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Wing"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=692225%7C414069",
+        "product_title": "HONEY MUSTARD WINGS 8 pcs",
+        "product_description": "8 Pcs. Crispy fried wings, tossed in sweet yet delcious honey mustard sauce.",
+        "product_price": "640",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1713422989-436561642_788467206198024_7402439414129935573_n.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Wing"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=705037%7C415886",
+        "product_title": "Sizzling Salsa Chicken Bites",
+        "product_description": "9 Pcs. Crisp to perfection chicken bites, dusted with our special sizzling salsa seasoning.",
+        "product_price": "490",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1718001140-_JK_6581.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Chicken Bites"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=705036%7C415886",
+        "product_title": "PLAIN CHICKEN BITES 9 PCS",
+        "product_description": "9 Pcs. Crisp to perfection, our crispy yet juicy bucket of chicken bites. Perfect choice for kids.",
+        "product_price": "490",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1718002286-_JK_6571.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Chicken Bites"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=705050%7C415886",
+        "product_title": "BUFFALO CHICKEN BITES 9 PCS",
+        "product_description": "9 Pcs. Crisp to perfection chicken bites, topped with tangy spicy buffalo sauce.",
+        "product_price": "490",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1718002091-_JK_6591.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Chicken Bites"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=705058%7C415886",
+        "product_title": "THAI SWEET CHILLI CHICKEN BITES 9 PCS",
+        "product_description": "9 Pcs. Crisp to perfection chicken bites, tossed in sweet yet spicy chilli sauce for a succulent experience.",
+        "product_price": "490",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1718002737-_JK_6598.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Chicken Bites"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=705059%7C415886",
+        "product_title": "HONEY MUSTARD CHICKEN BITES 9 PCS",
+        "product_description": "9 Pcs. Crisp to perfection chicken bites, tossed in sweet yet delicious honey mustard sauce.",
+        "product_price": "490",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1718003229-_JK_6587.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Chicken Bites"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=713592%7C415892",
+        "product_title": "Jalapeno Wrap",
+        "product_description": "",
+        "product_price": "450",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1723764348-WhatsApp%20Image%202024-08-15%20at%203.44.18%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=713593%7C415892",
+        "product_title": "Siracha Wrap",
+        "product_description": "",
+        "product_price": "450",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1723764437-WhatsApp%20Image%202024-08-15%20at%203.44.19%20AM.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=726198%7C415892",
+        "product_title": "Crunchy Chicken Pasta",
+        "product_description": "Indulge in a rich, creamy Alfredo sauce, generously adorned with crispy chunks of chicken and a delightful sprinkle of crunchy bits for the perfect finishing touch. This dish promises a satisfying blend of flavors and textures that make every bite a delight!",
+        "product_price": "899",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1729931904-pasta.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=726199%7C415892",
+        "product_title": "Zesty Lemon Wings",
+        "product_description": "8 Pcs of Wings",
+        "product_price": "640",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1729947285-Lemon-Wings.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=728778%7C415892",
+        "product_title": "Zesty Lemon Bites",
+        "product_description": "",
+        "product_price": "490",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730019763-462553626_1569982793629942_674500482758485109_n.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=726202%7C415892",
+        "product_title": "Flavor Explosion Zesty Lemon",
+        "product_description": "2 Pc Crispy chicken sprinkled with Zesty Lemon dust along with Dinner Roll.",
+        "product_price": "650",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1729931963-Lemon-Chicken.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=726200%7C415892",
+        "product_title": "Flavor Explosion Sizzling Salsa",
+        "product_description": "2 Pc Crispy chicken sprinkled with Sizzling Salsa dust along with Dinner Roll.",
+        "product_price": "650",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1729932048-Salsa-chicken.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=726201%7C415892",
+        "product_title": "Flavor Explosion Spicy Buffalo",
+        "product_description": "2 Pc Crispy chicken tossed in Spicy Buffalo Sauce along with Dinner Roll.",
+        "product_price": "650",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1729931997-Buffalo-Chicken.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Starter"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649554%7C407639",
+        "product_title": "2 Piece Meal Deal",
+        "product_description": "2 Crispy Chicken Piece, 1 Regular Fries, 1 Coleslaw [Can/345ml]\n\n(Selecting Chicken part is not Applicable on promotion Set)",
+        "product_price": "710",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730537201-2-pc-MEal-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649556%7C407639",
+        "product_title": "Ultimate Feast Box",
+        "product_description": "5 piece Crispy Chicken, 1 Large Fries & 2 Regular drinks [Can/345ml] \n\n(Selecting Chicken part is not Applicable on promotion Set)",
+        "product_price": "1350",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730537398-Ultimate-feast-box-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649555%7C407639",
+        "product_title": "Flavor Craver",
+        "product_description": "Zenga Burger, 1 Pc Chicken, Regular Fries, Coleslaw & 1 Regular Drink [Can/345ml] \n\n(Selecting Chicken part is not Applicable on promotion Set)",
+        "product_price": "1050",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730536675-Flavour-Craver-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649558%7C407639",
+        "product_title": "Ultimate Crunch Feast",
+        "product_description": "2 Zenga Burger, 2 Crispy Chicken Piece, 1 Large Fries, & 2 Regular Drink [Can/345ml] \n\n(Selecting Chicken part is not Applicable on promotion Set)",
+        "product_price": "1560",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730536500-Ultimate-crunch-feast-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649572%7C407639",
+        "product_title": "3 Pc Crispy Chicken",
+        "product_description": "(Selecting Chicken part is not Applicable on promotion Set)",
+        "product_price": "690",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1702036653-_0020_3-pc-chicken.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649573%7C407639",
+        "product_title": "2Pcs COMBO DEAL",
+        "product_description": "2 Pc Chicken + Fries+ Dinner Roll + Al-Baik Sauce\t\t\t\n\n(Selecting Chicken part is not Applicable on promotion Set)",
+        "product_price": "620",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1703239288-2-pc-combo.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649559%7C407640",
+        "product_title": "Mega Snack Box",
+        "product_description": "9 Pcs Crispy Fried Chicken \n\n(Selecting Chicken part is not Applicable on promotion Set)",
+        "product_price": "2050",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1702037315-_0007_mega-snack-box.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649560%7C407640",
+        "product_title": "Family Combo 1",
+        "product_description": "4 Chick N' Crunch Burger, 4 Crispy Chicken Piece, 2 Dinner roll & 1.5 Litre Drink\n\n(Selecting Chicken part is not Applicable on promotion Set)",
+        "product_price": "2190",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1723641048-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649562%7C407640",
+        "product_title": "Family Combo 2",
+        "product_description": "2 Zenga Burger, 2 Chick N' Crunch Burger, 4 Crispy Chicken Pieces, 2. dinner rolls & 1.5 Litre Drink\n\n(Selecting Chicken part is not Applicable on promotion Set)",
+        "product_price": "2390",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1723641033-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649563%7C407640",
+        "product_title": "Family Combo 3",
+        "product_description": "4 Zenga Burger, 4 Crispy Chicken Pieces, 2 dinner rolls & 1.5 Litre Drink\n\n(Selecting Chicken part is not Applicable on promotion Set)",
+        "product_price": "2590",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1723641017-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Deal"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649566%7C407641",
+        "product_title": "Chick N Crunch Burger",
+        "product_description": "Crispy goodness, ,made of chest chicken meat. Along with Al Baik Sauce.",
+        "product_price": "310",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1702036759-_0016_chick-n-crunch-burger.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=696563%7C407641",
+        "product_title": "Chick N Crunch Burger + Drink",
+        "product_description": "Chick N' Crunch Burger + Drink [Can/345ml Drink]",
+        "product_price": "410",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730536896-Chick-%26-Crunch-burger-with-drink-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=712153%7C407641",
+        "product_title": "Chick N Crunch BurgerFries & Regular Drink",
+        "product_description": "Chick N Crunch Burger, Fries & Regular Drink [Can/345ml Drink]",
+        "product_price": "590",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730534975-Chick-%26-Crunch-burger-with-fries-n-drink-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649565%7C407641",
+        "product_title": "Zenga Burger",
+        "product_description": "Crispy goodness, ,made of thigh chicken meat making it more juicy. Along with Al Baik Sauce.",
+        "product_price": "600",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1702036282-_0024_zinga%20burger.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=708054%7C407641",
+        "product_title": "ZENGA BURGER+FRIES+DRINK",
+        "product_description": "Zenga Burger Regular Fries & Regular Drink [can/345ml Drink]",
+        "product_price": "910",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730537051-Zenga-burger-with-fries-%26-drink-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=673218%7C407641",
+        "product_title": "SIRACHA BURGER",
+        "product_description": "Our spicy take on value burger made from crunchy chicken fillet (chest pc), Spicy sauce, & lettuce.",
+        "product_price": "420",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1702037414-_0004_siracha-burger.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=705060%7C407641",
+        "product_title": "SIRACHA BURGER + FRIES",
+        "product_description": "Siracha Burger along with regular fries",
+        "product_price": "520",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1718003742-447642166_880358790521082_8110394674704040724_n%20(1).jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=705061%7C407641",
+        "product_title": "SIRACHA BURGER + FRIES + DRINK",
+        "product_description": "Siracha burger along with crispy regular fries & Regular drink [Can/345ml Drink]",
+        "product_price": "570",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730536996-Siracha-burger-with-fries-%26-drink-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=705080%7C407641",
+        "product_title": "CHICKEN CHIPOTLE BURGER",
+        "product_description": "Crispy, juicy scrumptious chicken patty (Thigh pc) along with lettuce and spicy chipotle sauce.",
+        "product_price": "570",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1718004987-_JK_6473.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=705083%7C407641",
+        "product_title": "CHICKEN CHIPOTLE BURGER + FRIES",
+        "product_description": "Chicken Chipotle Burger With regular fries",
+        "product_price": "670",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1718005223-_JK_6441%20copy.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=705087%7C407641",
+        "product_title": "CHICKEN CHIPOTLE BURGER + FRIES + DRINK",
+        "product_description": "Chicken Chipotle Burger With Fries & Drink [Can/345ml Drink]",
+        "product_price": "720",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730536844-Chicken-Chipottle-with-fries-%26-drink-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=705062%7C407641",
+        "product_title": "CHICKEN JALAPENO BURGER",
+        "product_description": "Crispy, juicy scrumptious chicken patty (Thigh pc) along with spicy tangy jalapeno sauce, lettuce and pcs of jalapeno.",
+        "product_price": "570",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1718004444-_JK_6390%20copy.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=705068%7C407641",
+        "product_title": "CHICKEN JALAPENO BURGER + FRIES",
+        "product_description": "Chicken Jalapeno Burger along with Regular Fries",
+        "product_price": "670",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1718004563-_JK_6483%20copy.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=705070%7C407641",
+        "product_title": "CHICKEN JALAPENO BURGER + FRIES + DRINK",
+        "product_description": "Chicken Jalapeno Burger with fries & Regular Drink [Can/345ml Drink]",
+        "product_price": "720",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730536859-Jalapeno-With-fries-%26-drink-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=673221%7C407641",
+        "product_title": "THE MAJESTY",
+        "product_description": "Double crispy chicken patty with double goodness, along with a tinge of spicy goodness stuffed in a a burger. A huge burger to satisfy your hunger.",
+        "product_price": "770",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1703155212-The%20Majesty%20Burger.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=696564%7C407641",
+        "product_title": "Majesty Combo",
+        "product_description": "Majesty+ 1 Regular fries + 1 Regular drink[Can/345ml Drink]",
+        "product_price": "1050",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730537114-Majesty-with-fries-%26-drink-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Burger"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=710859%7C416904",
+        "product_title": "Kiddie Meal 1",
+        "product_description": "4 pc Nuggets, 1 Small Fries, Drink or Water\n\n[Can/345ml Drink]",
+        "product_price": "550",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730537219-KIDY-MEAL-1-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Kid"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=710863%7C416904",
+        "product_title": "Kiddie Meal 2",
+        "product_description": "4 pc Nuggets, 1 Small Fries, Drink or water, Toy\n\n[Can/345ml Drink]",
+        "product_price": "670",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730537251-KIDY-MEAL-2-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Kid"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=710865%7C416904",
+        "product_title": "Kiddie Meal 3",
+        "product_description": "Chick n Crunch Burger, Small Fries, Drink or Water\n\n[Can/345ml Drink]",
+        "product_price": "550",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730537278-KIDY-MEAL-3-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Kid"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=710867%7C416904",
+        "product_title": "Kiddie Meal 4",
+        "product_description": "Chick n Crunch Burger, Small Fries, Drink or Water,Toy\n\n[Can/345ml Drink]",
+        "product_price": "670",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730537321-KIDY-MEAL-4-Changes-1.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Kid"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=675330%7C407642",
+        "product_title": "ZING CHICKEN STRIPS 4pcs",
+        "product_description": "Crunchy chicken strips, a must for kids.",
+        "product_price": "500",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1702036468-_0022_zing-chicken-strips.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649575%7C407642",
+        "product_title": "Chicken Piece ( Single )",
+        "product_description": "",
+        "product_price": "320",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1702036597-one%20pc%20chicken_11zon.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=674548%7C407642",
+        "product_title": "French Fries",
+        "product_description": "Soft Potato Wedges With A Crispy Exterior That Will Make Your Day!",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1702037263-_0009_fries.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=692392%7C407642",
+        "product_title": "Masala Fries",
+        "product_description": "Soft Potato Wedges With A Crispy Exterior tossed in chatpata seasoning.",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1718006851-441853860_475527518284813_5247322247979734881_n.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=692391%7C407642",
+        "product_title": "FRIES BUCKET WITH AL-BAIK DIP",
+        "product_description": "Crisp to tooth french fries along with our delicious garlic sauce.",
+        "product_price": "470",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1713231280-logo.webp%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=649581%7C407642",
+        "product_title": "Dinner Roll",
+        "product_description": "",
+        "product_price": "50",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1702036799-_0013_dinner-roll.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=674549%7C407642",
+        "product_title": "Coleslaw",
+        "product_description": "",
+        "product_price": "150",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1703155575-ade.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=658731%7C407642",
+        "product_title": "AL-BAIK SAUCE",
+        "product_description": "Blended with mayonnaise and mustard, seasoned with salt, sugar and vinegar oil.",
+        "product_price": "50",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1702036629-_0019_al-baik-sauce.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=663778%7C407642",
+        "product_title": "Cheese Slice.",
+        "product_description": "",
+        "product_price": "80",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1701771293-02e97f7b-bbc1-4961-a104-a06ac4755bc3.jpeg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Add Ons"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=729992%7C407643",
+        "product_title": "1.5 Liter Drink",
+        "product_description": "",
+        "product_price": "250",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=708075%7C407643",
+        "product_title": "Kababjees Cola Can",
+        "product_description": "",
+        "product_price": "150",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730537911-cola-drink.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=708076%7C407643",
+        "product_title": "Kababjees Lemon Can",
+        "product_description": "",
+        "product_price": "150",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730537883-lemon-drink.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=708077%7C407643",
+        "product_title": "Kababjees Orange Can",
+        "product_description": "",
+        "product_price": "150",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730537808-orange-drink.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=708078%7C407643",
+        "product_title": "REGULAR WATER",
+        "product_description": "",
+        "product_price": "90",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1720174425-mneral-water.jpg%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Beverage"
+    },
+    {
+        "product_url": "https://www.kababjeesfriedchicken.com/?item_id=708080%7C407643",
+        "product_title": "REGULAR DRINK 345Ml",
+        "product_description": "",
+        "product_price": "130",
+        "product_image": "https://www.kababjeesfriedchicken.com/_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1722625906-lgoo.png%3Fq%3D10&w=3840&q=75",
+        "brand_name": "Kababjees Fried Chicken",
+        "food_category": "Beverage"
+    }
+]
