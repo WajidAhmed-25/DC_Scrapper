@@ -21,14 +21,14 @@ import re
 
 def save_banners_content(url):
     webbrowser.open(url)
-    time.sleep(5)
+    time.sleep(8)
 
     pyautogui.hotkey('ctrl', 'shift', 'c')
-    time.sleep(2)
+    time.sleep(3)
     pyautogui.hotkey('ctrl', ']')
-    time.sleep(2)
+    time.sleep(3)
     pyautogui.hotkey('ctrl', 'l')
-    time.sleep(4)
+    time.sleep(5)
 
     js_command = 'copy(document.getElementsByClassName("carousel slide")[0].outerHTML);'
     pyautogui.write(js_command)
