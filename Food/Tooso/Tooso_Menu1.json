@@ -3,512 +3,569 @@
         "product_url": "https://jhr.tooso.pk/?item_id=722326%7C418829",
         "product_title": "Masala Fries",
         "product_description": "",
-        "original_price": "420",
-        "discount_price": "315",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730894566-Tooso.jpeg%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Starter"
+        "food_category": "Starter",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722327%7C418829",
         "product_title": "PLAIN FRIES",
         "product_description": "",
-        "original_price": "400",
-        "discount_price": "300",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727483334-PLAIN%20FRIES.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Starter"
+        "food_category": "Starter",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722330%7C418829",
         "product_title": "Plain Salad",
         "product_description": "",
-        "original_price": "360",
-        "discount_price": "270",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727483411-PLAIN%20SALAD.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Starter"
+        "food_category": "Starter",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722332%7C418829",
         "product_title": "Coleslaw",
         "product_description": "",
-        "original_price": "360",
-        "discount_price": "270",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727483447-COLESLAW.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Starter"
+        "food_category": "Starter",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722333%7C418829",
         "product_title": "Mayo Fries",
         "product_description": "",
-        "original_price": "470",
-        "discount_price": "353",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730894587-Tooso.jpeg%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Starter"
+        "food_category": "Starter",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722334%7C418829",
         "product_title": "Garlic Bread",
         "product_description": "",
-        "original_price": "470",
-        "discount_price": "353",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727483516-GARLIC%20BREAD%20(NEW).webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Starter"
+        "food_category": "Starter",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722365%7C418828",
         "product_title": "Chicken Corn Soup",
         "product_description": "",
-        "original_price": "510",
-        "discount_price": "383",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727486645-CHICKEN%20CORN%20SOUP.jpg%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Soup"
+        "food_category": "Soup",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722367%7C418828",
         "product_title": "Chicken Hot And Sour Soup",
         "product_description": "",
-        "original_price": "510",
-        "discount_price": "383",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727486621-CHICKEN%20HOT%20AND%20SOUR%20SOUP.jpg%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Soup"
+        "food_category": "Soup",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722350%7C418833",
         "product_title": "Sandwich Platter",
         "product_description": "Club Sandwich, Jalapeno Sandwich, Crispy Sandwich, Bran Sandwich, Fries",
-        "product_price": "2400",
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727485964-Sandwich%20Platter.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Platter"
+        "food_category": "Platter",
+        "original_price": "2400",
+        "discount_price": 0,
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722353%7C418833",
         "product_title": "Burger Platter",
         "product_description": "Philly Cheese Steak, Jalapeno Burger, Classic Chicken Burger, Crispy Burger",
-        "product_price": "2400",
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727486012-Burger%20Platter%20of%204.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Platter"
+        "food_category": "Platter",
+        "original_price": "2400",
+        "discount_price": 0,
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722287%7C418820",
         "product_title": "Chicken Fajita Wrap",
         "product_description": "",
-        "original_price": "980",
-        "discount_price": "735",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727478759-CHICKEN%20FAJITA%20WRAP.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Pasta"
+        "food_category": "Pasta",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722288%7C418820",
         "product_title": "Beef Fajita Wrap",
         "product_description": "",
-        "original_price": "980",
-        "discount_price": "735",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727478800-BEEF%20FAJITA%20WRAP.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Pasta"
+        "food_category": "Pasta",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722289%7C418820",
         "product_title": "Spicy Pasta",
         "product_description": "",
-        "original_price": "1150",
-        "discount_price": "863",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727478850-SPICY%20PASTA.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Pasta"
+        "food_category": "Pasta",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722290%7C418820",
         "product_title": "Pasta Alferdo",
         "product_description": "",
-        "original_price": "1150",
-        "discount_price": "863",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727478878-PASTA%20ALFREDO.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Pasta"
+        "food_category": "Pasta",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722291%7C418821",
         "product_title": "Club Sandwich",
         "product_description": "",
-        "original_price": "830",
-        "discount_price": "623",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727478939-TOOSOS%20CLUB%20SANDWICH.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Sandwich"
+        "food_category": "Sandwich",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722292%7C418821",
         "product_title": "Roasted Club Sandwich",
         "product_description": "",
-        "original_price": "1020",
-        "discount_price": "765",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727478963-ROASTED%20CHICKEN.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Sandwich"
+        "food_category": "Sandwich",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722293%7C418821",
         "product_title": "Crispy Chicken Club Sandwich",
         "product_description": "",
-        "original_price": "1020",
-        "discount_price": "765",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Sandwich"
+        "food_category": "Sandwich",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722294%7C418821",
         "product_title": "Bran Sandwich",
         "product_description": "",
-        "original_price": "950",
-        "discount_price": "713",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727479092-BRAN%20SANDWICH.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Sandwich"
+        "food_category": "Sandwich",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722295%7C418821",
         "product_title": "Grilled Chicken Jalapeno Sandwich",
         "product_description": "",
-        "original_price": "1020",
-        "discount_price": "765",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Sandwich"
+        "food_category": "Sandwich",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722296%7C418821",
         "product_title": "Grilled Chicken Cheese Sandwich",
         "product_description": "",
-        "original_price": "1040",
-        "discount_price": "780",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Sandwich"
+        "food_category": "Sandwich",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722297%7C418821",
         "product_title": "Philly Cheese Steak Sandwich",
         "product_description": "",
-        "original_price": "1110",
-        "discount_price": "833",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Sandwich"
+        "food_category": "Sandwich",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722299%7C418821",
         "product_title": "Veggie Sandwich",
         "product_description": "",
-        "original_price": "700",
-        "discount_price": "525",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727479463-Veggie%20Sandwich.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Sandwich"
+        "food_category": "Sandwich",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722300%7C418822",
         "product_title": "BBQ Shashlik",
         "product_description": "",
-        "original_price": "1120",
-        "discount_price": "840",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727479970-BBQ%20SHASHLIK.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Rice"
+        "food_category": "Rice",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722301%7C418822",
         "product_title": "Chicken Shashlik",
         "product_description": "",
-        "original_price": "1120",
-        "discount_price": "840",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730894581-Tooso.jpeg%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Rice"
+        "food_category": "Rice",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722303%7C418822",
         "product_title": "Chicken Chilli",
         "product_description": "",
-        "original_price": "1120",
-        "discount_price": "840",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1730894576-Tooso.jpeg%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Rice"
+        "food_category": "Rice",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722304%7C418822",
         "product_title": "Beef Chilli",
         "product_description": "",
-        "original_price": "1120",
-        "discount_price": "840",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727480147-BEEF%20CHILLI.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Rice"
+        "food_category": "Rice",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722306%7C418823",
         "product_title": "BEEF ROASTED BURGER",
         "product_description": "",
-        "original_price": "1020",
-        "discount_price": "765",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727480540-BEEF%20ROASTED%20BURGER.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Burger"
+        "food_category": "Burger",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722307%7C418823",
         "product_title": "Tooso Special Burger",
         "product_description": "",
-        "original_price": "1020",
-        "discount_price": "765",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727480606-TOOSOS%20SPECIAL%20BURGER.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Burger"
+        "food_category": "Burger",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722309%7C418823",
         "product_title": "Grilled Jalapeno Burger",
         "product_description": "",
-        "original_price": "1020",
-        "discount_price": "765",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727480652-GRILLED%20JALAPENO%20BURGER.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Burger"
+        "food_category": "Burger",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722311%7C418824",
         "product_title": "Spicy Mexican Chicken Burger",
         "product_description": "",
-        "original_price": "980",
-        "discount_price": "735",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727482203-spicy%20b.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Burger"
+        "food_category": "Burger",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722312%7C418824",
         "product_title": "Crispy Chicken Burger",
         "product_description": "",
-        "original_price": "830",
-        "discount_price": "623",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727482264-CRISPY%20CHICKEN%20BURGER.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Burger"
+        "food_category": "Burger",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722313%7C418824",
         "product_title": "Chicken Hot Dog",
         "product_description": "",
-        "original_price": "750",
-        "discount_price": "563",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727482294-CHICKEN%20HOT%20DOG.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Burger"
+        "food_category": "Burger",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722314%7C418824",
         "product_title": "Veggie Burger",
         "product_description": "",
-        "original_price": "700",
-        "discount_price": "525",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Burger"
+        "food_category": "Burger",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722315%7C418824",
         "product_title": "Philly Cheese Steak Burger",
         "product_description": "",
-        "original_price": "1020",
-        "discount_price": "765",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Burger"
+        "food_category": "Burger",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722316%7C418825",
         "product_title": "Nuggets",
         "product_description": "",
-        "original_price": "880",
-        "discount_price": "660",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Kid"
+        "food_category": "Kid",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722317%7C418825",
         "product_title": "Chicken Hot Shots",
         "product_description": "",
-        "original_price": "880",
-        "discount_price": "660",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Kid"
+        "food_category": "Kid",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722318%7C418826",
         "product_title": "Mexican Steak",
         "product_description": "",
-        "original_price": "1860",
-        "discount_price": "1395",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727482521-MEXICAN%20CHICKEN%20STEAK.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Steak"
+        "food_category": "Steak",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722319%7C418826",
         "product_title": "Chicken Steak",
         "product_description": "",
-        "original_price": "1570",
-        "discount_price": "1178",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Steak"
+        "food_category": "Steak",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722320%7C418826",
         "product_title": "Pepper Steak",
         "product_description": "",
-        "original_price": "1600",
-        "discount_price": "1200",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727482648-PEPPER%20STEAK.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Steak"
+        "food_category": "Steak",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722321%7C418826",
         "product_title": "American Steak",
         "product_description": "",
-        "original_price": "1780",
-        "discount_price": "1335",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727482766-AMERICAN%20CHICKEN%20STEAK.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Steak"
+        "food_category": "Steak",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722322%7C418827",
         "product_title": "Crispy Boneless Fried Chicken",
         "product_description": "",
-        "original_price": "930",
-        "discount_price": "698",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727482860-CRISPY%20BONELESS%20FRIED%20CHICKEN.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Starter"
+        "food_category": "Starter",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722323%7C418827",
         "product_title": "OG Fried Chicken",
         "product_description": "",
-        "original_price": "660",
-        "discount_price": "495",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727482974-FRIED%20CHICKEN.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Starter"
+        "food_category": "Starter",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722324%7C418827",
         "product_title": "Chicken Spicy Honey Wings",
         "product_description": "",
-        "original_price": "830",
-        "discount_price": "623",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727483059-CHICKEN%20SPICY%20HONEY%20STICKS.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Starter"
+        "food_category": "Starter",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722330%7C418827",
         "product_title": "Plain Salad",
         "product_description": "",
-        "original_price": "360",
-        "discount_price": "270",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727483411-PLAIN%20SALAD.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Starter"
+        "food_category": "Starter",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722341%7C418831",
         "product_title": "Soft Drink",
         "product_description": "345ml drink",
-        "original_price": "150",
-        "discount_price": "113",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
-        "brand_name": "Tooso"
+        "brand_name": "Tooso",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722342%7C418831",
         "product_title": "Fresh Lime",
         "product_description": "",
-        "original_price": "210",
-        "discount_price": "158",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
-        "brand_name": "Tooso"
+        "brand_name": "Tooso",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722343%7C418831",
         "product_title": "Water",
         "product_description": "",
-        "original_price": "120",
-        "discount_price": "90",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
-        "brand_name": "Tooso"
+        "brand_name": "Tooso",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722345%7C418832",
         "product_title": "Ice Cream",
         "product_description": "",
-        "original_price": "310",
-        "discount_price": "233",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Mocktail or Shake"
+        "food_category": "Mocktail or Shake",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722347%7C418832",
         "product_title": "Shakes",
         "product_description": "",
-        "original_price": "490",
-        "discount_price": "368",
+        "original_price": null,
+        "discount_price": 0,
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Mocktail or Shake"
+        "food_category": "Mocktail or Shake",
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722338%7C418830",
         "product_title": "SPECIAL FALUDA",
         "product_description": "",
-        "product_price": "630",
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727484703-SPECIAL%20FALUDA.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Dessert"
+        "food_category": "Dessert",
+        "original_price": "630",
+        "discount_price": 0,
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722339%7C418830",
         "product_title": "Plain Faluda",
         "product_description": "",
-        "product_price": "550",
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2Fplacholde-general2.png%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Dessert"
+        "food_category": "Dessert",
+        "original_price": "550",
+        "discount_price": 0,
+        "discount_percentage": 0
     },
     {
         "product_url": "https://jhr.tooso.pk/?item_id=722340%7C418830",
         "product_title": "Cold Coffee",
         "product_description": "",
-        "product_price": "640",
         "product_image": "https://jhr.tooso.pk//_next/image?url=https%3A%2F%2Fassets.indolj.io%2Fimages%2F1727484883-SPECIAL%20COLD%20COFFEE.webp%3Fq%3D10&w=3840&q=75",
         "brand_name": "Tooso",
-        "food_category": "Dessert"
+        "food_category": "Dessert",
+        "original_price": "640",
+        "discount_price": 0,
+        "discount_percentage": 0
     }
 ]

@@ -311,6 +311,31 @@ def add_brand_name_to_products(input_file, output_file):
 
 
 
+def modify_product_data(input_file):
+    
+    if not os.path.exists(input_file):
+        print(f"Error: The file {input_file} does not exist.")
+        return None
+    
+    with open(input_file, 'r') as file:
+        data = json.load(file)
+    
+    for product in data:
+       
+        if 'product_price' in product:
+            product['original_price'] = product.pop('product_price')
+        else:
+            product['original_price'] = None         
+
+        product['discount_price'] = 0
+        product['discount_percentage'] = 0
+    
+    with open('foodsinn_menu_items.json', 'w') as f:
+        json.dump(data, f, indent=4)
+    
+    return 'foodsinn_menu_items.json'
+        
+        
 
 
 # -------------------------------------------------------- Functions Calling ------------------------------------------------------------------#
@@ -394,6 +419,13 @@ input_file = 'foodsinn_menu_items.json'
 output_file = 'foodsinn_menu_items.json'
 
 add_brand_name_to_products(input_file, output_file)
+
+
+input_file = 'foodsinn_menu_items.json'
+
+
+modified_file = modify_product_data(input_file)
+print(f"Modified JSON file saved as: {modified_file}")
 
 
 

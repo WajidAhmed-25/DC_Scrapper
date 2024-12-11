@@ -19,12 +19,12 @@ import re
 def save_html_content():
     url = "https://angeethipk.com/"
     webbrowser.open(url)
-    time.sleep(5)
+    time.sleep(20)
 
     pyautogui.hotkey('ctrl', 'shift', 'c')
-    time.sleep(2)
+    time.sleep(3)
     pyautogui.hotkey('ctrl', ']')
-    time.sleep(2)
+    time.sleep(3)
     pyautogui.hotkey('ctrl', 'l')
     time.sleep(2)
 
@@ -48,12 +48,6 @@ def save_html_content():
     pyautogui.hotkey('ctrl', 'w')
     time.sleep(1.3)
     
-
-
-
-
-
-
 
 
 def extract_and_save_menu(input_html, output_html, div_ids_and_classes):
@@ -232,6 +226,34 @@ def add_brand_name_to_products(input_file, output_file):
 
     with open(output_file, 'w') as file:
         json.dump(data, file, indent=4)
+        
+        
+
+
+def modify_product_data(input_file):
+    
+    if not os.path.exists(input_file):
+        print(f"Error: The file {input_file} does not exist.")
+        return None
+    
+    with open(input_file, 'r') as file:
+        data = json.load(file)
+    
+    for product in data:
+       
+        if 'product_price' in product:
+            product['original_price'] = product.pop('product_price')
+        else:
+            product['original_price'] = None         
+
+        product['discount_price'] = 0
+        product['discount_percentage'] = 0
+    
+    with open('Angeethi_Combined_Menu.json', 'w') as f:
+        json.dump(data, f, indent=4)
+    
+    return 'Angeethi_Combined_Menu.json'
+        
 
 
 # -------------------------------------------------------- Functions Calling ------------------------------------------------------------------#
@@ -287,9 +309,14 @@ output_file = 'Angeethi_Combined_Menu.json'
 add_brand_name_to_products(input_file, output_file)
 
 
-# separate_deals_and_normal('Angeethi_Combined_Menu.json')
-
 time.sleep(1)
+
+
+input_file = 'Angeethi_Combined_Menu.json'
+
+
+modified_file = modify_product_data(input_file)
+print(f"Modified JSON file saved as: {modified_file}")
 
 
 print("All Done")

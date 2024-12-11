@@ -266,6 +266,32 @@ def add_brand_name_to_products(input_file, output_file):
         json.dump(data, file, indent=4)
 
 
+
+def modify_product_data(input_file):
+    
+    if not os.path.exists(input_file):
+        print(f"Error: The file {input_file} does not exist.")
+        return None
+    
+    with open(input_file, 'r') as file:
+        data = json.load(file)
+    
+    for product in data:
+       
+        if 'product_price' in product:
+            product['original_price'] = product.pop('product_price')
+        else:
+            product['original_price'] = None         
+
+        product['discount_price'] = 0
+        product['discount_percentage'] = 0
+    
+    with open('Kababjees_Fried_Chicken_Menu.json', 'w') as f:
+        json.dump(data, f, indent=4)
+    
+    return 'Kababjees_Fried_Chicken_Menu.json'
+
+
 # -------------------------------------------------------- Functions Calling ------------------------------------------------------------------#
 
 print("Automation Started")
@@ -337,6 +363,15 @@ add_brand_name_to_products(input_file, output_file)
 time.sleep(1)
 
 print("All Done")
+
+input_file = 'Kababjees_Fried_Chicken_Menu.json'
+
+modified_file = modify_product_data(input_file)
+print(f"Modified JSON file saved as: {modified_file}")
+
+
+print("All Done")
+
 
 
 
